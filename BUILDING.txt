@@ -9,7 +9,9 @@ Setup: set ANDROID_SDK_ROOT, or create local.properties containing:
   sdk.dir=/path/to/android-sdk
 
 Build:
-  (cd libraries/humla/libs/humla-spongycastle && ../../gradlew --no-daemon jar)
   ./gradlew --no-daemon :app:assembleGoogRelease
+
+The root build automatically builds the nested custom SpongyCastle JARs used
+by Humla. No source replacement or manual nested build is required.
 
 APK output: app/build/outputs/apk/goog/release/

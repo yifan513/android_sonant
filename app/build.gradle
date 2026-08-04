@@ -62,8 +62,8 @@ android {
 
         applicationId "com.shenxunchat.sonant"
         // code:XYYZZbb (bb for build)
-        versionCode 1000200
-        versionName "1.0.2"
+        versionCode 1000300
+        versionName "1.0.3"
 
         buildConfigField "long", "TIMESTAMP", System.currentTimeMillis() + "L"
 
