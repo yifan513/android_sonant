@@ -20,7 +20,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <ListPreference
-        android:defaultValue="voiceActivity"
+        android:defaultValue="ptt"
         android:entries="@array/audioInputNames"
         android:entryValues="@array/audioInputValues"
         android:key="audioInputMethod"
@@ -35,7 +35,7 @@
         android:defaultValue="false"
         app:iconSpaceReserved="false"/>
 
-    <se.lublin.mumla.preference.SeekBarDialogPreference
+    <com.shenxunchat.sonant.preference.SeekBarDialogPreference
         android:title="@string/audioInputVolume"
         android:summary="@string/audioInputVolumeSum"
         android:key="inputVolume"
@@ -48,7 +48,7 @@
         android:key="vad_settings"
         app:iconSpaceReserved="false">
         <!-- multiplier was previously 0.1, but never made sense, never worked -->
-        <se.lublin.mumla.preference.SeekBarDialogPreference
+        <com.shenxunchat.sonant.preference.SeekBarDialogPreference
             app:multiplier="1"
             android:defaultValue="50"
             android:key="vadThreshold"
@@ -61,7 +61,7 @@
     <PreferenceCategory android:title="@string/pttSettings"
         android:key="ptt_settings"
         app:iconSpaceReserved="false">
-        <se.lublin.mumla.preference.KeySelectDialogPreference
+        <com.shenxunchat.sonant.preference.KeySelectDialogPreference
             android:key="talkKey"
             android:summary="@string/pttKeySum"
             android:title="@string/pttKey"
@@ -89,7 +89,7 @@
             android:title="@string/hidePtt"
             app:iconSpaceReserved="false"/>
         <CheckBoxPreference
-            android:defaultValue="false"
+            android:defaultValue="true"
             android:key="togglePtt"
             android:summary="@string/togglePttSum"
             android:title="@string/togglePtt"
@@ -107,21 +107,21 @@
         <!-- TODO add an actual min of 8000hz -->
         <ListPreference
             android:key="input_quality"
-            android:defaultValue="48000"
+            android:defaultValue="16000"
             android:title="@string/audioSampleRate"
             android:summary="@string/audioSampleRateSum"
             android:entries="@array/audioSampleRateValues"
             android:entryValues="@array/audioSampleRateValues"
             app:iconSpaceReserved="false"/>
 
-        <se.lublin.mumla.preference.SeekBarDialogPreference
+        <com.shenxunchat.sonant.preference.SeekBarDialogPreference
             android:key="input_bitrate"
             android:title="@string/inputQuality"
             android:summary="@string/inputQualitySum"
             app:multiplier="1000"
             app:max="96"
             app:min="8"
-            android:defaultValue="40"
+            android:defaultValue="12"
             android:text=" bps"
             app:iconSpaceReserved="false"/>
 

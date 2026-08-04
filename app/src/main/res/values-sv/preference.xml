@@ -2,8 +2,6 @@
 <resources>
     <string name="hot_corner_none">Av</string>
     <string name="about">Om</string>
-    <string name="acknowledgementsSum">Se vem som har bidragit till Mumla (webblänk)</string>
-    <string name="acknowledgements">Medverkande</string>
     <string name="voiceActivitySettings">Inställningar för röstaktivering</string>
     <string name="certificateGenerate">Generera certifikat</string>
     <string name="pttSettings">Inställningar för Push-to-talk</string>
@@ -56,8 +54,8 @@
     <string name="chatNotificationsSum">Visas för nya chattmeddelanden.</string>
     <string name="defaultUsername">Standard-användarnamn</string>
     <string name="defaultUsernameSum">Ändrar förvalet för nytillagd server och för anslutning till publik server.</string>
-    <string name="defaultUsernameDefault">Mumla_Användare</string>
-    <string name="certificateGenerateSum">Genererar ett nytt självsignerat Mumla-certifikat. Rekommenderas för nybörjare.</string>
+    <string name="defaultUsernameDefault">Sonant_Användare</string>
+    <string name="certificateGenerateSum">Genererar ett nytt självsignerat Sonant-certifikat. Rekommenderas för nybörjare.</string>
     <string name="disableOpusSum">Stäng av Opus-stöd för Mumble 1.2.4-servrar.</string>
     <string name="hidePttSum">Endast användbart om du använder Push-to-talk-hörn eller fysisk knapp.</string>
     <string name="useTtsSum">Läser upp inkommande meddelanden med talsyntes.</string>
@@ -73,7 +71,7 @@
     <string name="loadImagesSum">Laddar ner och visar bilder i chatten.</string>
     <string name="loadImages">Externa bilder</string>
     <string name="clearServerCertificates">Rensa servercertifikat</string>
-    <string name="clearServerCertificatesSum">Tar bort alla betrodda servercertifikat från Mumla.</string>
+    <string name="clearServerCertificatesSum">Tar bort alla betrodda servercertifikat från Sonant.</string>
     <string name="halfDuplex">Envägsljud</string>
     <string name="halfDuplexSum">Tystar annan uppspelning när push-to-talk är aktiv, för att undvika rundgång.</string>
     <string name="handsetMode">Lur</string>
@@ -83,7 +81,7 @@
     <string name="preprocessor_enabled_sum">Dämpar omgivningsljud och normaliserar volymen.</string>
     <string name="audio_per_packet_sum">Ställer in hur lång inspelning som skickas per datapaket.</string>
     <string name="stay_awake">Håll vaken</string>
-    <string name="stay_awake_sum">Håller skärmen påslagen när Mumla är öppen.</string>
+    <string name="stay_awake_sum">Håller skärmen påslagen när Sonant är öppen.</string>
     <string name="pref_certificate_summary">Ändrar förvalt certifikat för anslutning till en server.</string>
     <string name="pref_import_certificate_title">Importera certifikat</string>
     <string name="audio_per_packet">Ljudlängd per paket</string>

@@ -5,6 +5,7 @@
     <string name="drawer_close">Sluit Luik</string>
     <string name="drawer_not_connected">Niet Verbonden</string>
     <string name="drawer_server">Server</string>
+    <string name="drawer_current">Huidig kanaal</string>
     <string name="drawer_tokens">Toegangssleutels</string>
     <string name="drawer_pinned">Opgeprikte Kanalen</string>
     <string name="drawer_header_servers">Servers</string>
@@ -51,7 +52,7 @@
     <string name="server_match_not_found">Server niet gevonden</string>
     <string name="server_match_expand_country">Kon geen optimale servers in uw land vinden. Zoekopdracht wereldwijd uitbreiden?</string>
     <string name="server_match_info">Naam: %1$s\nHost: %2$s:%3$d\nGebruikers: %4$d / %5$d\nVersie: %6$s \nLand: %7$s \nLatency: %8$d ms</string>
-    <string name="server_match_description">Mumla kan automatisch een lege server zoeken, geoptimaliseerd aan de hand van locatie, versie en latency.</string>
+    <string name="server_match_description">Sonant kan automatisch een lege server zoeken, geoptimaliseerd aan de hand van locatie, versie en latency.</string>
     <!--Common-->
     <string name="no_servers">Geen servers toegevoegd. Druk op \'toevoegen\' in the taakbalk om te beginnen.</string>
     <string name="server_password">Wachtwoord</string>
@@ -96,9 +97,9 @@
     <string name="offline">Offline</string>
     <string name="clearChat">Chat Legen</string>
     <string name="connected">Verbonden</string>
-    <string name="mumlaConnected">Mumla Verbonden</string>
-    <string name="mumlaConnecting">Mumla verbindt…</string>
-    <string name="mumlaDisconnected">Mumla Verbinding Verbroken</string>
+    <string name="mumlaConnected">Sonant Verbonden</string>
+    <string name="mumlaConnecting">Sonant verbindt…</string>
+    <string name="mumlaDisconnected">Sonant Verbinding Verbroken</string>
     <string name="channel">Kanaal</string>
     <string name="user">Gebruiker</string>
     <string name="unknown">Ongekend</string>
@@ -108,7 +109,7 @@
     <string name="country">Land</string>
     <string name="share">Delen</string>
     <string name="description">Beschrijving</string>
-    <string name="shareMessage">Verbind met deze Mumble server met Mumla. %s</string>
+    <string name="shareMessage">Verbind met deze Mumble server met Sonant. %s</string>
     <string name="status_notify_muted_and_deafened">Gedempt en doof gemaakt.</string>
     <string name="status_notify_muted">Gedempt.</string>
     <string name="close">Sluit</string>
@@ -131,7 +132,7 @@
     <string name="channel_add">Kanaal Toevoegen</string>
     <string name="tts_failed">TTS initialiseren mislukt</string>
     <string name="mumble_url_parse_failed">Mumble URL kon niet worden ontleed.</string>
-    <string name="first_run_generate_certificate_title">Welkom bij Mumla</string>
+    <string name="first_run_generate_certificate_title">Welkom bij Sonant</string>
     <string name="first_run_generate_certificate">Certificaat generen is ten zeerste aangeraden en nodig voor verbinden met bepaalde servers.</string>
     <string name="generate">Genereer</string>
     <string name="invalid_password">Ongeldig wachtwoord.</string>

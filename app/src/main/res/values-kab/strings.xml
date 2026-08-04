@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="drawer_current">Abadu amiran</string>
     <string name="user_menu_register">Snulfu-d amiḍan</string>
     <string name="server_password">Awal n uɛeddi</string>
     <string name="server_username">Isem n useqdac</string>

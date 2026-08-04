@@ -23,6 +23,7 @@
     <string name="drawer_close">Close Drawer</string>
     <string name="drawer_not_connected">Not Connected</string>
     <string name="drawer_server">All Channels</string>
+    <string name="drawer_current">Current Channel</string>
     <string name="drawer_tokens">Access Tokens</string>
     <string name="drawer_pinned">Pinned Channels</string>
     <string name="drawer_header_servers">Servers</string>
@@ -76,10 +77,24 @@
     <string name="server_match_not_found">Couldn\'t find server</string>
     <string name="server_match_expand_country">Couldn\'t find any optimal servers in your country. Search worldwide?</string>
     <string name="server_match_info">Name: %1$s\nHost: %2$s:%3$d\nUsers: %4$d / %5$d\nVersion: %6$s \nCountry: %7$s \nLatency: %8$d ms</string>
-    <string name="server_match_description">Mumla can automatically find you an empty server, optimizing for location, version, and latency.</string>
+    <string name="server_match_description">Sonant can automatically find you an empty server, optimizing for location, version, and latency.</string>
 
     <!-- Common -->
-    <string name="no_servers">Press \'Add\' from the action bar to add a server first.</string>
+    <string name="no_servers">No servers yet.</string>
+    <string name="server_list_help">Use + to add one server, or the notepad button to paste JSON and import many servers at once.</string>
+    <string name="import_servers">Import servers</string>
+    <string name="import_servers_title">Import servers from JSON</string>
+    <string name="import_servers_instructions">Paste a JSON object containing a “servers” array. Required: hostname. Optional: name, port, username and password. The url and sonant_favorites fields are accepted and ignored.</string>
+    <string name="import_servers_example">{\n  "servers": [\n    {\n      "hostname": "sonant.example.org",\n      "name": "RTC",\n      "password": "",\n      "port": 51392,\n      "url": "",\n      "username": "David"\n    }\n  ],\n  "sonant_favorites": 1\n}</string>
+    <string name="import_servers_hint">Paste JSON here. Required: hostname. Optional: name, password, port, url and username.\n\n{\n  "servers": [\n    {\n      "hostname": "sonant.example.org",\n      "name": "RTC",\n      "password": "",\n      "port": 51392,\n      "url": "",\n      "username": "User"\n    }\n  ],\n  "sonant_favorites": 1\n}</string>
+    <plurals name="import_servers_success">
+        <item quantity="one">Imported %d server.</item>
+        <item quantity="other">Imported %d servers.</item>
+    </plurals>
+    <string name="import_servers_empty">Paste JSON to import.</string>
+    <string name="import_servers_invalid_json">Invalid JSON: %s</string>
+    <string name="import_servers_missing_host">Server %d is missing “hostname”.</string>
+    <string name="import_servers_invalid_port">Server %d has an invalid port. Use 1–65535, or omit it.</string>
     <string name="server_password">Password</string>
     <string name="server_username">Username</string>
     <string name="server_port">Port</string>
@@ -109,6 +124,7 @@
     <string name="generateCertFailure">Could not generate certificate.</string>
     <string name="generateCertProgress">Generating certificate…</string>
     <string name="search">Search</string>
+    <string name="show_myself">Show myself</string>
     <string name="searchHint">Search channels and users</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="quickConnect">Quick Connect</string>
@@ -123,9 +139,9 @@
     <string name="offline">Offline</string>
     <string name="clearChat">Clear Chat</string>
     <string name="connected">Connected</string>
-    <string name="mumlaConnected">Mumla connected</string>
-    <string name="mumlaConnecting">Mumla connecting…</string>
-    <string name="mumlaDisconnected">Mumla disconnected</string>
+    <string name="mumlaConnected">Sonant connected</string>
+    <string name="mumlaConnecting">Sonant connecting…</string>
+    <string name="mumlaDisconnected">Sonant disconnected</string>
     <string name="channel">Channel</string>
     <string name="user">User</string>
     <string name="unknown">Unknown</string>
@@ -135,7 +151,7 @@
     <string name="country">Country</string>
     <string name="share">Share</string>
     <string name="description">Description</string>
-    <string name="shareMessage">Join this Mumble server with Mumla. %s</string>
+    <string name="shareMessage">Join this Mumble server with Sonant. %s</string>
     <string name="status_notify_muted_and_deafened">Muted and deafened.</string>
     <string name="status_notify_muted">Muted.</string>
     <string name="close">Close</string>
@@ -157,7 +173,7 @@
     <string name="channel_add">Add Channel</string>
     <string name="tts_failed">Could not start TTS</string>
     <string name="mumble_url_parse_failed">Mumble URL is not valid.</string>
-    <string name="first_run_generate_certificate_title">Welcome to Mumla</string>
+    <string name="first_run_generate_certificate_title">Welcome to Sonant</string>
     <string name="first_run_generate_certificate">Generating a certificate is highly recommended, and necessary for connection to some servers.</string>
     <string name="generate">Generate</string>
     <string name="invalid_password">Wrong password.</string>
@@ -213,24 +229,11 @@
         <item quantity="other">%d new messages</item>
     </plurals>
 
-    <string name="app_news">What\'s New</string>
-    <string name="app_news_summary">View the latest updates</string>
-    <string name="app_news_footer_on_startup">These news can be viewed again from the About page.</string>
-
-    <string name="app_news_items_v3_7_0">• A lot of work was done to update Mumla for Android 15 and 16 (API 35 &amp; 36).\n
-• As a consequence Android 5.0 (API 21) or later is now required.\n
-• Theming was modernized to support system light/dark modes.\n
-• The settings screen had to be adapted to newer APIs.\n
-• Added in-app language preference.\n</string>
-    <string name="app_news_items_v3_7_1">• Minor release with mostly translation updates, thank you all translators!\n</string>
-    <string name="app_news_items_v3_7_2">• Fix potential crash on startup.\n
-• Add some translations, thank you all translators!\n</string>
-    <string name="app_news_items_v3_7_3">• Make PTT hot corner visible on Android 12 and later, and on dark and light background\n</string>
 
     <!-- Used only by flavor "goog" -->
-    <string name="donate_dialog_title_goog">Enjoying Mumla?</string>
-    <string name="donate_dialog_message_goog">Thank you for using Mumla! Please consider making a small donation to help keep Mumla alive — and to remove this message.</string>
-    <string name="donate_dialog_positivebutton_goog">Support Mumla</string>
+    <string name="donate_dialog_title_goog">Enjoying Sonant?</string>
+    <string name="donate_dialog_message_goog">Thank you for using Sonant! Please consider making a small donation to help keep Sonant alive — and to remove this message.</string>
+    <string name="donate_dialog_positivebutton_goog">Support Sonant</string>
     <string name="donate_dialog_negativebutton_goog">Later</string>
     <string name="donate_purchase_pending_goog">Your donation is pending and may be ready at a later restart. Thank you!</string>
     <string name="donate_thanks_goog">Thank you for your support!</string>

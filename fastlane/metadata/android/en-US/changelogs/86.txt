@@ -10,8 +10,8 @@ This is the first release on the Google Play store.
 
 - Allan Nordhøy reworked the English source strings.
 
-- R4SAS translated Mumla to Russian.
+- R4SAS translated Sonant to Russian.
 
-- deluxghost translated Mumla to simplified Chinese.
+- deluxghost translated Sonant to simplified Chinese.
 
 - Public server list retrieval works again.

@@ -1,4 +1,4 @@
-Um cliente para o sistema de conversas em voz Mumble. Hospede ou conecte-se a um dos vários servidores públicos mantidos pela comunidade (veja em https://www.mumble.info). Mumla é uma versão atualizada e mantida (fork) do aplicativo Plumble.
+Um cliente para o sistema de conversas em voz Mumble. Hospede ou conecte-se a um dos vários servidores públicos mantidos pela comunidade (veja em https://www.mumble.info). Sonant é uma versão atualizada e mantida (fork) do aplicativo Plumble.
 
 Alguns dos recursos:
 
@@ -17,4 +17,4 @@ Alguns dos recursos:
 Transmissão por atividade de voz atualmente funciona melhor quando usando um headset. Cancelamento de eco e redução de ruído requer melhoria.
 Configurar o limite de detecção nas opções ajuda.
 
-Mumla é software livre copleft. Saiba mais em: https://mumla-app.gitlab.io/
+Sonant é software livre copleft. Saiba mais em: https://mumla-app.gitlab.io/

@@ -5,11 +5,13 @@
     <plurals name="notification_unread_many">
         <item quantity="one">%d nová zpráva</item>
         <item quantity="few">%d nové zprávy</item>
+        <item quantity="many">%d nové zprávy</item>
         <item quantity="other">%d nových zpráv</item>
     </plurals>
     <plurals name="search_channel_users">
         <item quantity="one">%d uživatel</item>
         <item quantity="few">%d uživatelé</item>
+        <item quantity="many">%d uživatelé</item>
         <item quantity="other">%d uživatelů</item>
     </plurals>
     <string name="donation_thanks">Děkujeme vám za váš dar.</string>
@@ -72,7 +74,7 @@
     <string name="invalid_password">Nesprávné heslo.</string>
     <string name="generate">Vygenerovat</string>
     <string name="first_run_generate_certificate">Generování certifikátu se důrazně doporučuje a je nezbytné pro připojení k některým serverům.</string>
-    <string name="first_run_generate_certificate_title">Vítejte v Mumla</string>
+    <string name="first_run_generate_certificate_title">Vítejte v Sonant</string>
     <string name="mumble_url_parse_failed">Adresa URL služby Mumble není platná.</string>
     <string name="tts_failed">Nelze spustit převodník textu na řeč</string>
     <string name="channel_add">Přidat kanál</string>
@@ -95,7 +97,7 @@
     <string name="close">Zavřít</string>
     <string name="status_notify_muted">Ztlumen.</string>
     <string name="status_notify_muted_and_deafened">Ztlumen a ohlušen.</string>
-    <string name="shareMessage">Připojte se k tomuto Mumble serveru pomocí Mumla. %s</string>
+    <string name="shareMessage">Připojte se k tomuto Mumble serveru pomocí Sonant. %s</string>
     <string name="description">Popis</string>
     <string name="share">Sdílet</string>
     <string name="country">Země</string>
@@ -105,9 +107,9 @@
     <string name="unknown">Neznámé</string>
     <string name="user">Uživatel</string>
     <string name="channel">Kanál</string>
-    <string name="mumlaDisconnected">Mumla odpojen</string>
-    <string name="mumlaConnecting">Mumla se připojuje…</string>
-    <string name="mumlaConnected">Mumla připojen</string>
+    <string name="mumlaDisconnected">Sonant odpojen</string>
+    <string name="mumlaConnecting">Sonant se připojuje…</string>
+    <string name="mumlaConnected">Sonant připojen</string>
     <string name="connected">Připojeno</string>
     <string name="clearChat">Vyčistit chat</string>
     <string name="offline">Offline</string>
@@ -151,7 +153,7 @@
     <string name="server_username">Uživatelské jméno</string>
     <string name="server_password">Heslo</string>
     <string name="no_servers">Stiskněte „Přidat“ v horním panelu pro přidání serveru.</string>
-    <string name="server_match_description">Mumla pro vás automaticky může najít prázdný server s optimální lokací, verzí a latencí.</string>
+    <string name="server_match_description">Sonant pro vás automaticky může najít prázdný server s optimální lokací, verzí a latencí.</string>
     <string name="server_match_info">Jméno: %1$s
 \nHost: %2$s:%3$d
 \nUživatelé: %4$d / %5$d
@@ -186,6 +188,7 @@
     <string name="drawer_pinned">Připnuté kanály</string>
     <string name="drawer_tokens">Přístupové tokeny</string>
     <string name="drawer_server">Všechny kanály</string>
+    <string name="drawer_current">Aktuální kanál</string>
     <string name="drawer_not_connected">Nepřipojeno</string>
     <string name="drawer_close">Zavřít nabídku</string>
     <string name="drawer_open">Otevřít nabídku</string>

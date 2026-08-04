@@ -6,7 +6,7 @@
     <string name="loadImagesSum">அரட்டையில் படங்களைப் பதிவிறக்குகிறது மற்றும் காட்டுகிறது.</string>
     <string name="loadImages">வெளிப்புற படங்கள்</string>
     <string name="clearServerCertificates">சேவையக சான்றிதழ்களை அழி</string>
-    <string name="clearServerCertificatesSum">மும்லாவிலிருந்து அனைத்து நம்பகமான சேவையக சான்றிதழ்களையும் அகற்று.</string>
+    <string name="clearServerCertificatesSum">Sonantவிலிருந்து அனைத்து நம்பகமான சேவையக சான்றிதழ்களையும் அகற்று.</string>
     <string name="version">பதிப்பு</string>
     <string name="halfDuplex">ஒரு வழி ஒலிதம்</string>
     <string name="halfDuplexSum">ஒலிதம் சுழல்கள்/பின்னூட்டங்களைத் தவிர்க்க பேசுவதற்கு-தள்ளும் போது பிற பதிவு மீட்பொலித்தல்களை முடக்குகிறது.</string>
@@ -19,7 +19,7 @@
     <string name="audio_per_packet">ஒரு பொட்டலத்திற்கு ஒலி</string>
     <string name="audio_per_packet_sum">குரல் பொட்டலத்திற்கு ஒலியின் நீளம்.</string>
     <string name="stay_awake">விழித்திருங்கள்</string>
-    <string name="stay_awake_sum">மும்லாவை திறந்திருக்கும்போது திரையை வைத்திருங்கள்.</string>
+    <string name="stay_awake_sum">Sonantவை திறந்திருக்கும்போது திரையை வைத்திருங்கள்.</string>
     <string name="pref_certificate_title">சான்றிதழ்</string>
     <string name="pref_certificate_summary">சேவையகத்துடன் இணைக்கும்போது பயன்படுத்த வேண்டிய இயல்புநிலை.</string>
     <string name="pref_import_certificate_title">இறக்குமதி சான்றிதழ்</string>
@@ -40,8 +40,6 @@
     <string name="hot_corner_top_right">மேல் வலது ↗</string>
     <string name="hot_corner_bottom_right">கீழே வலது ↘</string>
     <string name="about">பற்றி</string>
-    <string name="acknowledgements">பங்களிப்பாளர்கள்</string>
-    <string name="acknowledgementsSum">மும்லாவுக்கு (வலை இணைப்பு) யார் பங்களித்தார்கள் என்று பாருங்கள்</string>
     <string name="inputQualitySum">அனுப்பப்படும் தரவுகளின் விருப்பமான விகிதம் (நொடிக்குப் இருமங்களில்).</string>
     <string name="pref_start_up_in_pinned_mode">பின் செய்யப்பட்ட தடங்கள் பயன்முறை</string>
     <string name="licenses">உரிமங்கள்</string>
@@ -70,9 +68,9 @@
     <string name="chatNotificationsSum">புதிய அரட்டை செய்திகளுக்குக் காட்டப்படும்.</string>
     <string name="defaultUsername">இயல்புநிலை பயனர்பெயர்</string>
     <string name="defaultUsernameSum">சேவையகத்தைச் சேர்க்கும்போது அல்லது பொது சேவையகத்துடன் இணைக்கும்போது முன் நிரப்பப்பட்ட பெயர்.</string>
-    <string name="defaultUsernameDefault">மும்லா_பயனர்</string>
+    <string name="defaultUsernameDefault">Sonant_பயனர்</string>
     <string name="certificateGenerate">சான்றிதழை உருவாக்குங்கள்</string>
-    <string name="certificateGenerateSum">புதிய தன்வய கையொப்பமிடப்பட்ட மும்லா சான்றிதழை உருவாக்குகிறது. ஆரம்பநிலைக்கு பரிந்துரைக்கப்படுகிறது.</string>
+    <string name="certificateGenerateSum">புதிய தன்வய கையொப்பமிடப்பட்ட Sonant சான்றிதழை உருவாக்குகிறது. ஆரம்பநிலைக்கு பரிந்துரைக்கப்படுகிறது.</string>
     <string name="pttSettings">பேசுவதற்கு-தள்ளு அமைப்புகள்</string>
     <string name="voiceActivitySettings">குரல் செயல்பாட்டு அமைப்புகள்</string>
     <string name="disableOpus">ஓபச் கோடெக்கைத் தவிர்</string>

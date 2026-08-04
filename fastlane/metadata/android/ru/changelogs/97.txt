@@ -16,5 +16,5 @@ Pure Incompetence
 sal0max
 
 Хотите помочь с переводом?
-Присоединяйтесь к проекту на Weblate — это просто и важно для развития Mumla!
+Присоединяйтесь к проекту на Weblate — это просто и важно для развития Sonant!
 🌍 https://hosted.weblate.org/projects/mumla/

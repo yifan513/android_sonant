@@ -5,6 +5,7 @@
     <string name="drawer_close">Zamknij szufladę</string>
     <string name="drawer_not_connected">Brak połączenia</string>
     <string name="drawer_server">Wszystkie kanały</string>
+    <string name="drawer_current">Bieżący kanał</string>
     <string name="drawer_tokens">Tokeny dostępu</string>
     <string name="drawer_pinned">Przypięte kanały</string>
     <string name="drawer_header_servers">Serwery</string>
@@ -52,7 +53,7 @@
     <string name="server_match_not_found">Nie udało się znaleźć serwera</string>
     <string name="server_match_expand_country">Nie udało się znaleźć optymalnych serwerów w Twoim kraju. Szukać na całym świecie\?</string>
     <string name="server_match_info">Nazwa: %1$s\nHost: %2$s:%3$d\nUżytkownicy: %4$d / %5$d\nWersja: %6$s \nKraj: %7$s \nOpóźnienie: %8$d ms</string>
-    <string name="server_match_description">Mumla może automatycznie znaleźć Ci pusty serwer, optymalizując lokalizację, wersję i opóźnienie.</string>
+    <string name="server_match_description">Sonant może automatycznie znaleźć Ci pusty serwer, optymalizując lokalizację, wersję i opóźnienie.</string>
     <!-- Common -->
     <string name="no_servers">Naciśnij „Dodaj” z paska akcji, aby najpierw dodać serwer.</string>
     <string name="server_password">Hasło</string>
@@ -97,9 +98,9 @@
     <string name="offline">Offline</string>
     <string name="clearChat">Wyczyść czat</string>
     <string name="connected">Połączono</string>
-    <string name="mumlaConnected">Mumla połączona</string>
-    <string name="mumlaConnecting">Mumla łączy się…</string>
-    <string name="mumlaDisconnected">Mumla rozłączona</string>
+    <string name="mumlaConnected">Sonant połączona</string>
+    <string name="mumlaConnecting">Sonant łączy się…</string>
+    <string name="mumlaDisconnected">Sonant rozłączona</string>
     <string name="channel">Kanał</string>
     <string name="user">Użytkownik</string>
     <string name="unknown">Nieznany</string>
@@ -193,21 +194,11 @@
     <string name="image_confirm_send">Wysłać ten obraz\?</string>
     <string name="grant_perm_notifications">Proszę udzielić pozwolenia na wysyłanie powiadomień.</string>
     <string name="no_ptt_key">Bez przycisku</string>
-    <string name="app_news">Co nowego</string>
-    <string name="app_news_summary">Zobacz najnowsze aktualizacje</string>
-    <string name="app_news_footer_on_startup">Wiadomości te można ponownie przejrzeć na stronie „O programie”.</string>
-    <string name="donate_dialog_title_goog">Podoba Ci się Mumla?</string>
+    <string name="donate_dialog_title_goog">Podoba Ci się Sonant?</string>
     <string name="donate_dialog_message_goog">Dziękujemy za korzystanie z Mumli! Prosimy o rozważenie przekazania niewielkiej darowizny, która pomoże utrzymać Mumlę przy życiu i usunąć ten komunikat.</string>
     <string name="donate_dialog_positivebutton_goog">Wesprzyj Mumlę</string>
     <string name="donate_dialog_negativebutton_goog">Później</string>
     <string name="donate_purchase_pending_goog">Twoja darowizna jest w trakcie realizacji i może być gotowa po ponownym uruchomieniu. Dziękujemy!</string>
     <string name="donate_thanks_goog">Dziękujemy za wsparcie!</string>
     <string name="donate_foss">Przekaż darowiznę</string>
-    <string name="app_news_items_v3_7_0">• Dużo pracy włożono w aktualizację Mumli dla Androida 15 i 16 (API 35 i 36).\n
-• W związku z tym wymagany jest Android 5.0 (API 21) lub nowszy.\n
-• Zmodernizowano motyw, aby obsługiwał jasny/ciemny tryb systemu.\n
-• Ekran ustawień musiał zostać dostosowany do nowszych interfejsów API.\n
-• Dodano preferencje językowe w aplikacji.\n</string>
-    <string name="app_news_items_v3_7_1">• Drobne wydanie zawierające głównie aktualizacje tłumaczeń, dziękujemy wszystkim tłumaczom!\n</string>
-    <string name="app_news_items_v3_7_2">• Naprawiono potencjalny błąd powodujący awarię podczas uruchamiania.\n• Dodano kilka tłumaczeń, dziękujemy wszystkim tłumaczom!\n</string>
 </resources>

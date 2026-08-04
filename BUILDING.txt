@@ -1,0 +1,15 @@
+Sonant Android source build
+===========================
+
+Requirements:
+  * JDK 17
+  * Android SDK (compileSdk 36) + NDK 27.0.12077973
+
+Setup: set ANDROID_SDK_ROOT, or create local.properties containing:
+  sdk.dir=/path/to/android-sdk
+
+Build:
+  (cd libraries/humla/libs/humla-spongycastle && ../../gradlew --no-daemon jar)
+  ./gradlew --no-daemon :app:assembleGoogRelease
+
+APK output: app/build/outputs/apk/goog/release/

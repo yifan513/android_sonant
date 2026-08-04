@@ -17,9 +17,9 @@
     <string name="unknown">Desconegut</string>
     <string name="user">Usuari</string>
     <string name="channel">Canal</string>
-    <string name="mumlaDisconnected">El Mumla està desconnectat</string>
-    <string name="mumlaConnecting">El Mumla està connectant…</string>
-    <string name="mumlaConnected">El Mumla està connectat</string>
+    <string name="mumlaDisconnected">El Sonant està desconnectat</string>
+    <string name="mumlaConnecting">El Sonant està connectant…</string>
+    <string name="mumlaConnected">El Sonant està connectat</string>
     <string name="connected">Connectat</string>
     <string name="clearChat">Neteja el xat</string>
     <string name="online">En línia</string>
@@ -44,7 +44,7 @@
     <string name="server_label">Etiqueta</string>
     <string name="server_host">Adreça</string>
     <string name="server_username">Nom d\'usuari</string>
-    <string name="server_match_description">El Mumla pot cercar automàticament un servidor buit, optimitzant ubicació, versió i latència.</string>
+    <string name="server_match_description">El Sonant pot cercar automàticament un servidor buit, optimitzant ubicació, versió i latència.</string>
     <string name="server_match_expand_country">No s\'ha pogut trobar cap servidor òptim al vostre país. Busquem arreu del món\?</string>
     <string name="server_match_not_found">No s\'ha trobat el servidor</string>
     <string name="server_match_found">S\'ha trobat el servidor</string>
@@ -69,6 +69,7 @@
     <string name="drawer_header_servers">Servidors</string>
     <string name="drawer_pinned">Canals fixats</string>
     <string name="drawer_server">Tots els canals</string>
+    <string name="drawer_current">Canal actual</string>
     <string name="drawer_not_connected">No connectat</string>
     <string name="allow">Permet</string>
     <string name="drawer_close">Tanca el calaix</string>
@@ -118,7 +119,7 @@
 \nEsteu connectat a Internet\?</string>
     <string name="status_notify_muted">Silenciat.</string>
     <string name="status_notify_muted_and_deafened">Silenciat i ensordit.</string>
-    <string name="shareMessage">Accediu a aquest servidor amb el Mumla. %s</string>
+    <string name="shareMessage">Accediu a aquest servidor amb el Sonant. %s</string>
     <string name="share">Comparteix</string>
     <string name="generateCertSuccess">El vostre certificat s\'ha generat y s\'ha guardar com a %s!</string>
     <string name="cancelled">Cancel·lat</string>
@@ -131,7 +132,7 @@
     <string name="invalid_password">Contrasenya no vàlida.</string>
     <string name="generate">Genera</string>
     <string name="first_run_generate_certificate">Es recomana generar un certificat. Alguns servidors demanen un certificat.</string>
-    <string name="first_run_generate_certificate_title">Benvinguts al Mumla</string>
+    <string name="first_run_generate_certificate_title">Benvinguts al Sonant</string>
     <string name="mumble_url_parse_failed">No s\'ha pogut processar la URL de Mumble.</string>
     <string name="tts_failed">No s\'ha pogut iniciar TTS</string>
     <string name="channel_add">Afegeix un canal</string>

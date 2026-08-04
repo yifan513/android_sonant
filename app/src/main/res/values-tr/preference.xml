@@ -9,7 +9,7 @@
     <string name="hot_corner_top_left">↖ sol üst</string>
     <string name="hot_corner_top_right">Sağ üst ↗</string>
     <string name="clearServerCertificates">Sunucu sertifikalarını temizle</string>
-    <string name="clearServerCertificatesSum">Tüm güvenilir sunucu sertifikalarını Mumla\'dan kaldırın.</string>
+    <string name="clearServerCertificatesSum">Tüm güvenilir sunucu sertifikalarını Sonant\'dan kaldırın.</string>
     <string name="inputMethodContinuous">Sürekli</string>
     <string name="theme_light">Açık</string>
     <string name="theme_dark">Koyu</string>
@@ -19,8 +19,8 @@
     <string name="appearance">Görünüm</string>
     <string name="theme">Tema</string>
     <string name="advancedAudio">Gelişmiş</string>
-    <string name="defaultUsernameDefault">Mumla_Kullanicisi</string>
-    <string name="certificateGenerateSum">Kendinden imzalı yeni bir Mumla sertifikası oluşturur. Yeni başlayanlar için tavsiye edilir.</string>
+    <string name="defaultUsernameDefault">Sonant_Kullanicisi</string>
+    <string name="certificateGenerateSum">Kendinden imzalı yeni bir Sonant sertifikası oluşturur. Yeni başlayanlar için tavsiye edilir.</string>
     <string name="useTor">Tor aracılığıyla bağlan</string>
     <string name="version">Sürüm</string>
     <string name="handsetModeSum">Geleneksel bir telefon görüşmesine benzemesi için ön hoparlörü ve yakınlık sensörünü kullanır.</string>
@@ -31,7 +31,6 @@
     <string name="hot_corner_none">Kapalı</string>
     <string name="inputMethodPtt">Bas konuş</string>
     <string name="hot_corner_bottom_right">sağ alt ↘</string>
-    <string name="acknowledgements">Katkıda bulunanlar</string>
     <string name="audioInputMethod">İletim modu</string>
     <string name="detectionThreshold">Algılama eşiği</string>
     <string name="pttKey">Bas konuş tuşu</string>
@@ -63,7 +62,7 @@
     <string name="pttSoundSum">Bas konuş düğmesine basıldığında ses efekti oynat.</string>
     <string name="preprocessor_enabled">Giriş ön işlemesi</string>
     <string name="stay_awake">Uyanık kal</string>
-    <string name="stay_awake_sum">Mumla açıkken ekranı açık tutar.</string>
+    <string name="stay_awake_sum">Sonant açıkken ekranı açık tutar.</string>
     <string name="pref_certificate_summary">Bir sunucuya bağlanırken kullanılacak öntanımlı olan.</string>
     <string name="pref_import_certificate_title">Sertifikayı içe aktar</string>
     <string name="pref_import_certificate_summary">Harici depolama alanından içe aktarın.</string>
@@ -71,7 +70,6 @@
     <string name="pref_export_certificate_summary">Harici depolama alanına dışa aktarın.</string>
     <string name="pref_show_user_count">Kanal kullanıcı sayısını göster</string>
     <string name="pref_show_user_count_summary">Kanal alt ağaçlarındaki kullanıcı sayısını gösterir.</string>
-    <string name="acknowledgementsSum">Mumla\'ya kimin katkıda bulunduğunu görün (web bağlantısı)</string>
     <string name="licenses">Lisanslar</string>
     <string name="audioInputMethodSum">Ses iletimi nasıl etkinleştirilir.</string>
     <string name="audioInputVolumeSum">Sesi normalleştirmek için seviye.</string>

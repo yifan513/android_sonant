@@ -14,8 +14,6 @@
     <string name="hot_corner_bottom_right">Onderaan rechts ↘</string>
     <!--About-->
     <string name="about">Over</string>
-    <string name="acknowledgements">Bijdragers</string>
-    <string name="acknowledgementsSum">Bekijk wie tot Mumla heeft bijgedragen</string>
     <string name="licenses">Licenties</string>
     <string name="authentication">Authenticatie</string>
     <string name="audioInputMethodSum">De methode van audio invoer.</string>
@@ -42,9 +40,9 @@
     <string name="chatNotificationsSum">Weergegeven voor nieuwe chat berichten.</string>
     <string name="defaultUsername">Standaard gebruikersnaam</string>
     <string name="defaultUsernameSum">De standaard gebruikersnaam te gebruiken bij verbinding met servers.</string>
-    <string name="defaultUsernameDefault">Mumla_Gebruiker</string>
+    <string name="defaultUsernameDefault">Sonant_Gebruiker</string>
     <string name="certificateGenerate">Genereer certificaat</string>
-    <string name="certificateGenerateSum">Genereert een nieuw self-signed Mumla certificaat. Annbevolen voor beginners.</string>
+    <string name="certificateGenerateSum">Genereert een nieuw self-signed Sonant certificaat. Annbevolen voor beginners.</string>
     <string name="pttSettings">Push-to-talk instellingen</string>
     <string name="voiceActivitySettings">Stem Activatie Instellingen</string>
     <string name="disableOpus">Schakel Opus Codec uit</string>
@@ -66,7 +64,7 @@
     <string name="loadImagesSum">Al dan niet externe afbeeldingen laden in chat.</string>
     <string name="loadImages">Externe Afbeeldingen Laden</string>
     <string name="clearServerCertificates">Wis Server Certificaten</string>
-    <string name="clearServerCertificatesSum">Wis alle toegestane certificaten uit de Mumla database.</string>
+    <string name="clearServerCertificatesSum">Wis alle toegestane certificaten uit de Sonant database.</string>
     <string name="version">Versie</string>
     <string name="halfDuplex">Half Duplex Modus</string>
     <string name="halfDuplexSum">Dempt het geluid van het toestel bij push to talk om feedback te voorkomen.</string>

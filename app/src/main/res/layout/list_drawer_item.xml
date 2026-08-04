@@ -40,6 +40,6 @@
             android:layout_marginLeft="8dp"
             android:textSize="16sp"
             android:fontFamily="sans-serif-light"
-            android:textColor="?android:textColorPrimaryInverse"
+            android:textColor="?android:textColorPrimary"
             android:layout_weight="1"/>
 </LinearLayout>

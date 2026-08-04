@@ -1,4 +1,4 @@
-Klient systemu czatu głosowego Mumble. Hostuj lub połącz się z jednym z wielu publicznych serwerów społecznościowych (zobacz https://www.mumble.info). Mumla to zaktualizowana i utrzymywana wersja (fork) aplikacji Plumble.
+Klient systemu czatu głosowego Mumble. Hostuj lub połącz się z jednym z wielu publicznych serwerów społecznościowych (zobacz https://www.mumble.info). Sonant to zaktualizowana i utrzymywana wersja (fork) aplikacji Plumble.
 
 Niektóre funkcje:
 
@@ -17,4 +17,4 @@ Niektóre funkcje:
 Transmisja aktywowana głosem działa obecnie najlepiej w przypadku korzystania z zestawu słuchawkowego. Usuwanie echa i redukcja szumów wymagają pracy.
 Dostrajanie progu wykrywania w ustawieniach pomaga.
 
-Mumla jest wolnym oprogramowaniem objętym licencją typu copyleft. Dowiedz się więcej na: https://mumla-app.gitlab.io/
+Sonant jest wolnym oprogramowaniem objętym licencją typu copyleft. Dowiedz się więcej na: https://mumla-app.gitlab.io/

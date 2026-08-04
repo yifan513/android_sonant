@@ -14,8 +14,6 @@
     <string name="hot_corner_bottom_right">inferior derecha ↘</string>
     <!--About-->
     <string name="about">Acerca de</string>
-    <string name="acknowledgements">Contribuidores</string>
-    <string name="acknowledgementsSum">Mira quién ha contribuido a Mumla (enlace web)</string>
     <string name="licenses">Licencias</string>
     <string name="authentication">Autenticación</string>
     <string name="audioInputMethodSum">¿Cómo se activa la transmisión del audio?</string>
@@ -42,9 +40,9 @@
     <string name="chatNotificationsSum">Mostrar notificaciones para mensajes de chat nuevos.</string>
     <string name="defaultUsername">Nombre de usuario predeterminado</string>
     <string name="defaultUsernameSum">Nombre rellenado previamente que se utiliza al añadir un servidor o al conectarse a un servidor público.</string>
-    <string name="defaultUsernameDefault">Mumla_User</string>
+    <string name="defaultUsernameDefault">Sonant_User</string>
     <string name="certificateGenerate">Generar certificado</string>
-    <string name="certificateGenerateSum">Genera un nuevo certificado de Mumla auto-firmado. Recomendado para principiantes.</string>
+    <string name="certificateGenerateSum">Genera un nuevo certificado de Sonant auto-firmado. Recomendado para principiantes.</string>
     <string name="pttSettings">Opciones de pulsar-para-hablar</string>
     <string name="voiceActivitySettings">Opciones de actividad de voz</string>
     <string name="disableOpus">No usar códec Opus</string>
@@ -66,7 +64,7 @@
     <string name="loadImagesSum">Descarga y muestra imágenes en el chat.</string>
     <string name="loadImages">Imágenes externas</string>
     <string name="clearServerCertificates">Limpiar loscertificados del servidor</string>
-    <string name="clearServerCertificatesSum">Eliminar todos los certificados del servidor de confianza de Mumla.</string>
+    <string name="clearServerCertificatesSum">Eliminar todos los certificados del servidor de confianza de Sonant.</string>
     <string name="version">Versión</string>
     <string name="halfDuplex">Audio en un solo sentido</string>
     <string name="halfDuplexSum">Silencia otras reproducciones durante la pulsación para hablar para evitar bucles/retroalimentación de audio.</string>
@@ -79,7 +77,7 @@
     <string name="audio_per_packet">Audio por paquete</string>
     <string name="audio_per_packet_sum">La cantidad de audio por paquete de voz.</string>
     <string name="stay_awake">Mantener la pantalla siempre encendida</string>
-    <string name="stay_awake_sum">Mantiene la pantalla encendida cuando Mumla está abierta.</string>
+    <string name="stay_awake_sum">Mantiene la pantalla encendida cuando Sonant está abierta.</string>
     <string name="shortTtsMessages">Mensajes acortados de texto a voz</string>
     <string name="shortTtsMessagesSum">Acortar los mensajes leyendo sólo los nombres de dominio de los enlaces.</string>
     <string name="pref_certificate_title">Certificado</string>

@@ -21,7 +21,7 @@
     <string name="pressKey">Trykk på en maskinvaretast for å bruke den til å snakke.</string>
     <string name="loadImages">Eksterne bilder</string>
     <string name="clearServerCertificates">Tøm tjenersertifikater</string>
-    <string name="clearServerCertificatesSum">Fjerner alle betrodde tjenersertifikat fra Mumla.</string>
+    <string name="clearServerCertificatesSum">Fjerner alle betrodde tjenersertifikat fra Sonant.</string>
     <string name="pressKeyInfo">Programmet må være åpent for å bruke dette (som følge av begrensninger i Android).</string>
     <string name="loadImagesSum">Laster ned og viser bilder i sludringen.</string>
     <string name="version">Versjon</string>
@@ -31,7 +31,7 @@
     <string name="handsetModeSum">Bruker fronthøyttaleren og nærhetssensor for å simulere en tradisjonell telefonsamtale.</string>
     <string name="pttSound">Trykk-for-å-snakke -lyd</string>
     <string name="audio_per_packet_sum">Lengden for lyd per stemmepakke.</string>
-    <string name="stay_awake_sum">Beholder skjermen påslått når Mumla er åpent.</string>
+    <string name="stay_awake_sum">Beholder skjermen påslått når Sonant er åpent.</string>
     <string name="pref_certificate_summary">Forvalget å bruke ved tilkobling til en tjener.</string>
     <string name="stay_awake">Forbli påslått</string>
     <string name="pref_export_certificate_title">Eksporter sertifikat</string>
@@ -50,11 +50,9 @@
     <string name="certificateGenerate">Generer sertifikat</string>
     <string name="pref_import_certificate_title">Importer sertifikat</string>
     <string name="inputMethodPtt">Trykk-for-å-snakke</string>
-    <string name="defaultUsernameDefault">Mumla_bruker</string>
+    <string name="defaultUsernameDefault">Sonant_bruker</string>
     <string name="theme_dark">Mørk</string>
     <string name="hot_corner_top_right">Øverst til høyre ↗</string>
-    <string name="acknowledgements">Bidragsytere</string>
-    <string name="acknowledgementsSum">Sjekk hvem som har bidratt til Mumla</string>
     <string name="detectionThreshold">Oppdagelsesterskel</string>
     <string name="general">Generelt</string>
     <string name="theme">Drakt</string>
@@ -70,7 +68,7 @@
     <string name="audioSampleRateSum">Foretrukket takt for måling av lyd. Noen enheter støtter færre takter.</string>
     <string name="preprocessor_enabled_sum">Undertrykker omgivelseslyd og normaliserer lydstyrke.</string>
     <string name="pttSoundSum">Spill lydeffekt når trykk-for-å-snakke trykkes.</string>
-    <string name="certificateGenerateSum">Genererer et nytt selv-signert Mumla-sertifikat. Anbefales for nybegynnere.</string>
+    <string name="certificateGenerateSum">Genererer et nytt selv-signert Sonant-sertifikat. Anbefales for nybegynnere.</string>
     <string name="shortTtsMessages">Forkortede tekst-til-tale -meldinger</string>
     <string name="useTtsSum">Les meldinger til deg høyr med talesyntese.</string>
     <string name="pttButtonHeight">Knappehøyde for trykk-for-å-snakke.</string>

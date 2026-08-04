@@ -22,27 +22,18 @@
     <Preference
         android:title="@string/app_name"
         android:summary="@string/copyright"
-        app:iconSpaceReserved="false">
-        <intent
-            android:action="android.intent.action.VIEW"
-            android:data="@string/project_link"/>
-    </Preference>
+        app:iconSpaceReserved="false"/>
     <Preference
         android:key="version"
         android:title="@string/version"
         app:iconSpaceReserved="false"/>
     <Preference
-        android:key="showNews"
-        app:title="@string/app_news"
-        app:summary="@string/app_news_summary"
-        app:iconSpaceReserved="false"/>
-    <Preference
-        android:title="@string/acknowledgements"
-        android:summary="@string/acknowledgementsSum"
+        android:title="@string/source_code"
+        android:summary="@string/source_code_link"
         app:iconSpaceReserved="false">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="@string/acknowledgements_link"/>
+            android:data="@string/source_code_link"/>
     </Preference>
     <PreferenceCategory
         android:title="@string/licenses"

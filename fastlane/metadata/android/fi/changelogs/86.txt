@@ -10,8 +10,8 @@ Ensimmäinen julkaisu Google Play Storessa
 
 -Allan Nordhøy parannellut käännöspohjaa (Englannista)
 
--R4SAS kääntänyt Mumlan Venäjäksi
+-R4SAS kääntänyt Sonantn Venäjäksi
 
--deluxghost kääntänyt Mumlan Kiinaksi (Yksink)
+-deluxghost kääntänyt Sonantn Kiinaksi (Yksink)
 
 -Julkisten palvelimien haku toimii taas.

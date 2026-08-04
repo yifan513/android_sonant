@@ -5,6 +5,7 @@
     <string name="drawer_close">Drawer schließen</string>
     <string name="drawer_not_connected">Nicht verbunden</string>
     <string name="drawer_server">Alle Kanäle</string>
+    <string name="drawer_current">Aktueller Kanal</string>
     <string name="drawer_tokens">Zugriffscodes</string>
     <string name="drawer_pinned">Gepinnte Kanäle</string>
     <string name="drawer_header_servers">Server</string>
@@ -51,7 +52,7 @@
     <string name="server_match_not_found">Server nicht gefunden</string>
     <string name="server_match_expand_country">Konnte keinen optimalen Server in Ihrem Land finden. Suche auf die ganze Welt ausweiten?</string>
     <string name="server_match_info">Name: %1$s\nHost: %2$s:%3$d\nBenutzer: %4$d / %5$d\nVersion: %6$s \nLand: %7$s \nLatenz: %8$d ms</string>
-    <string name="server_match_description">Mumla kann automatisch nach einem leeren Server suchen, optimiert nach Serverstandort, Version und Latenz.</string>
+    <string name="server_match_description">Sonant kann automatisch nach einem leeren Server suchen, optimiert nach Serverstandort, Version und Latenz.</string>
     <!--Common-->
     <string name="no_servers">Drücken Sie den „Hinzufüg en“-Knopf in der Aktionsleiste, um zu beginnen.</string>
     <string name="server_password">Passwort</string>
@@ -96,9 +97,9 @@
     <string name="offline">Offline</string>
     <string name="clearChat">Chatverlauf löschen</string>
     <string name="connected">Verbunden</string>
-    <string name="mumlaConnected">Mumla ist verbunden</string>
-    <string name="mumlaConnecting">Mumla verbindet …</string>
-    <string name="mumlaDisconnected">Mumla wurde getrennt</string>
+    <string name="mumlaConnected">Sonant ist verbunden</string>
+    <string name="mumlaConnecting">Sonant verbindet …</string>
+    <string name="mumlaDisconnected">Sonant wurde getrennt</string>
     <string name="channel">Kanal</string>
     <string name="user">Benutzer</string>
     <string name="unknown">Unbekannt</string>
@@ -108,7 +109,7 @@
     <string name="country">Land</string>
     <string name="share">Teilen</string>
     <string name="description">Beschreibung</string>
-    <string name="shareMessage">Treten Sie diesem Server mit Mumla bei. %s</string>
+    <string name="shareMessage">Treten Sie diesem Server mit Sonant bei. %s</string>
     <string name="status_notify_muted_and_deafened">Stumm und taub.</string>
     <string name="status_notify_muted">Stumm.</string>
     <string name="close">Schließen</string>
@@ -131,7 +132,7 @@
     <string name="channel_add">Kanal hinzufügen</string>
     <string name="tts_failed">TTS konnte nicht gestartet werden</string>
     <string name="mumble_url_parse_failed">Konnte Mumble URL nicht verarbeiten.</string>
-    <string name="first_run_generate_certificate_title">Willkommen in Mumla</string>
+    <string name="first_run_generate_certificate_title">Willkommen in Sonant</string>
     <string name="first_run_generate_certificate">Es wird sehr empfohlen ein Zertifikat zu generieren. Manche Server setzen ein Zertifikat voraus.</string>
     <string name="generate">Generieren</string>
     <string name="invalid_password">Ungültiges Passwort.</string>

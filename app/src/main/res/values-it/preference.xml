@@ -4,7 +4,6 @@
     <!--Hot corner-->
     <!--About-->
     <string name="about">Info su</string>
-    <string name="acknowledgementsSum">Vedi chi ha contribuito a Mumla (collegamento web)</string>
     <string name="licenses">Licenze</string>
     <string name="authentication">Autenticazione</string>
     <string name="audioInputVolume">Volume microfono</string>
@@ -34,7 +33,6 @@
     <string name="hot_corner_none">Spento</string>
     <string name="hot_corner_bottom_left">↙ in basso a sinistra</string>
     <string name="inputMethodContinuous">Continuo</string>
-    <string name="acknowledgements">Contributori</string>
     <string name="theme_dark">Scuro</string>
     <string name="pttKey">Tasto push-to-talk</string>
     <string name="inputMethodPtt">Push-to-talk</string>
@@ -45,7 +43,7 @@
     <string name="pressKey">Usa un tasto fisico per il push-to-talk.</string>
     <string name="forceTcpSum">Disattiva UDP per la comunicazione.</string>
     <string name="audioInputVolumeSum">Livello a cui normalizzare l\'audio.</string>
-    <string name="certificateGenerateSum">Genera un certificato Mumla autofirmato. Raccomandato per i principianti.</string>
+    <string name="certificateGenerateSum">Genera un certificato Sonant autofirmato. Raccomandato per i principianti.</string>
     <string name="useTtsSum">Leggere ad alta voce i messaggi in arrivo utilizzando la sintesi vocale.</string>
     <string name="detectionThresholdSum">Livello minimo del volume per il rilevamento della voce (quando la modalità di trasmissione è \"Attività vocale\").</string>
     <string name="detectionThreshold">Soglia di rilevamento</string>
@@ -56,7 +54,7 @@
     <string name="defaultUsername">Nome utente predefinito</string>
     <string name="audioSampleRateSum">Frequenza di campionamento audio preferita. Alcuni dispositivi supportano meno frequenze.</string>
     <string name="defaultUsernameSum">Nome precompilato usato quando si aggiunge un server o ci si connette a un server pubblico.</string>
-    <string name="defaultUsernameDefault">Mumla_User</string>
+    <string name="defaultUsernameDefault">Sonant_User</string>
     <string name="chatNotificationsSum">Mostrate per nuovi messaggi.</string>
     <string name="voiceActivitySettings">Impostazioni attività vocale</string>
     <string name="disableOpusSum">Disattiva il supporto Opus per i server Mumble 1.2.4.</string>
@@ -66,7 +64,7 @@
     <string name="useTorSum">Richiede l\'app Orbot.</string>
     <string name="loadImagesSum">Scarica e mostra le immagini in chat.</string>
     <string name="halfDuplex">Audio a senso unico</string>
-    <string name="clearServerCertificatesSum">Rimuovere tutti i certificati server attendibili da Mumla.</string>
+    <string name="clearServerCertificatesSum">Rimuovere tutti i certificati server attendibili da Sonant.</string>
     <string name="halfDuplexSum">Disattiva altre riproduzioni durante il push-to-talk, per evitare loop/feedback audio.</string>
     <string name="handsetModeSum">Usa l\'altoparlante anteriore e il sensore di prossimità per simulare una telefonata tradizionale.</string>
     <string name="pressKeyInfo">L\'app deve essere aperta (a causa di restrizioni Android).</string>
@@ -82,7 +80,7 @@
     <string name="audio_per_packet">Audio per pacchetto</string>
     <string name="audio_per_packet_sum">Lunghezza dell\'audio per pacchetto vocale.</string>
     <string name="stay_awake">Resta sveglio</string>
-    <string name="stay_awake_sum">Mantiene lo schermo acceso quando Mumla è aperto.</string>
+    <string name="stay_awake_sum">Mantiene lo schermo acceso quando Sonant è aperto.</string>
     <string name="pref_certificate_summary">Valore predefinito da utilizzare per la connessione a un server.</string>
     <string name="pref_show_user_count_summary">Mostra il numero di utenti nelle stanze del canale.</string>
     <string name="pref_show_user_count">Mostra numero utenti del canale</string>

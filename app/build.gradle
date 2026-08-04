@@ -44,11 +44,11 @@ allprojects {
 }
 
 android {
-    namespace = 'se.lublin.mumla'
+    namespace = 'com.shenxunchat.sonant'
     compileSdk = 36
 
     base {
-        archivesName = "mumla"
+        archivesName = "sonant"
     }
 
     // gradle8: Need to enable this when defaultConfig below contains some custom BuildConfig
@@ -56,24 +56,16 @@ android {
         buildConfig = true
     }
 
-    def gitDescribe = providers.exec {
-        // Need --always because there are no tags in gitlab ci (right?)
-        commandLine "git", "describe", "--tags", "--match", "[0-9]*.[0-9]*.[0-9]*", "--always"
-    }.standardOutput.asText.get().trim()
-
     defaultConfig {
         minSdkVersion 21
         targetSdk 36
 
-        applicationId "se.lublin.mumla"
-        // Remember: app_news_items_vX_Y_Z in src/main/res/values/strings.xml
-        // and NEWS_ITEMS in src/main/res/java/se/lublin/mumla/app/DialogUtils.java
-        //     code:XYYZZbb (bb for build)
-        versionCode 3070200
-        versionName gitDescribe
+        applicationId "com.shenxunchat.sonant"
+        // code:XYYZZbb (bb for build)
+        versionCode 1000000
+        versionName "1.0.0"
 
         buildConfigField "long", "TIMESTAMP", System.currentTimeMillis() + "L"
-        buildConfigField "String", "VERSIONTAG", "\"" + gitDescribe.split("-")[0] + "\""
 
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
     }
@@ -82,25 +74,26 @@ android {
     productFlavors {
         goog {
             dimension "release"
-            applicationId "se.lublin.mumla"
+            applicationId "com.shenxunchat.sonant"
         }
         foss {
             dimension "release"
-            applicationId "se.lublin.mumla"
+            applicationId "com.shenxunchat.sonant"
         }
         donation {
             dimension "release"
-            applicationId "se.lublin.mumla.donation"
+            applicationId "com.shenxunchat.sonant.donation"
         }
         beta {
             dimension "release"
-            applicationId "se.lublin.mumla.beta"
+            applicationId "com.shenxunchat.sonant.beta"
         }
     }
 
     buildTypes {
         // signingConfig beta will override
         release {
+            signingConfig signingConfigs.debug
             if (android.hasProperty("signingConfigs")) {
                 if (signingConfigs.hasProperty("release")) {
                     signingConfig = signingConfigs.release

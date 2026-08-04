@@ -1,4 +1,4 @@
-Anpassningar för Mumla som körs på Android 14 (SDK 34). Förhoppningsvis är den inte mindre stabil än tidigare.
+Anpassningar för Sonant som körs på Android 14 (SDK 34). Förhoppningsvis är den inte mindre stabil än tidigare.
 
 Tack till Nicolas Peugnet för några buggfixar i Humlas interna funktioner.
 

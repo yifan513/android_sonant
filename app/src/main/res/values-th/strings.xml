@@ -12,7 +12,7 @@
 \n
 \nกรุณาตรวจสอบว่า Orbot กำลังทำงานอยู่หรือไม่.</string>
     <string name="orbot_not_installed">ไม่ได้ติดตั้งแอพ Orbot. ใช้ Tor ไม่ได้</string>
-    <string name="grant_perm_draw_over_apps">กรุณาอนุญาตให้แสดง Mumla เหนือแอพอื่นๆ</string>
+    <string name="grant_perm_draw_over_apps">กรุณาอนุญาตให้แสดง Sonant เหนือแอพอื่นๆ</string>
     <string name="grant_perm_storage">กรุณาอนุญาติให้ใช้พื้นที่จัดเก็บภายนอก</string>
     <string name="grant_perm_microphone">กรุณาอนุญาตให้ใช้ไมโครโฟน</string>
     <string name="shout_configure">ปรับแต่งเป้าหมายการส่งเสียง</string>
@@ -53,7 +53,7 @@
     <string name="invalid_password">รหัสผ่านผิด</string>
     <string name="generate">สร้าง</string>
     <string name="first_run_generate_certificate">ขอแนะนำให้สร้างใบรับรอง และมันจำเป็นสำหรับการเชื่อมต่อกับบางเซิร์ฟเวอร์</string>
-    <string name="first_run_generate_certificate_title">ยินดีต้อนรับสู่ Mumla</string>
+    <string name="first_run_generate_certificate_title">ยินดีต้อนรับสู่ Sonant</string>
     <string name="mumble_url_parse_failed">Mumble URL ไม่ถูกต้อง.</string>
     <string name="tts_failed">ไม่สามารถเริ่ม TTS</string>
     <string name="channel_add">เพิ่มแชนเนล</string>
@@ -76,7 +76,7 @@
     <string name="close">ปิด</string>
     <string name="status_notify_muted">ปิดไมค์</string>
     <string name="status_notify_muted_and_deafened">ปิดไมค์และปิดเสียง</string>
-    <string name="shareMessage">เข้าร่วมเซิฟเวอร์ Mumble ด้วย Mumla. %s</string>
+    <string name="shareMessage">เข้าร่วมเซิฟเวอร์ Mumble ด้วย Sonant. %s</string>
     <string name="description">รายละเอียด</string>
     <string name="share">แชร์</string>
     <string name="country">ประเทศ</string>
@@ -86,9 +86,9 @@
     <string name="unknown">ไม่ระบุ</string>
     <string name="user">ผู้ใช้</string>
     <string name="channel">แชทเนล</string>
-    <string name="mumlaDisconnected">Mumla ออกจากระบบ</string>
-    <string name="mumlaConnecting">Mumla กำลังเชื่อมต่อ…</string>
-    <string name="mumlaConnected">Mumla เชื่อมต่อแล้ว</string>
+    <string name="mumlaDisconnected">Sonant ออกจากระบบ</string>
+    <string name="mumlaConnecting">Sonant กำลังเชื่อมต่อ…</string>
+    <string name="mumlaConnected">Sonant เชื่อมต่อแล้ว</string>
     <string name="connected">เชื่อมต่อแล้ว</string>
     <string name="clearChat">ล้างแชท</string>
     <string name="offline">ออฟไลน์</string>
@@ -132,7 +132,7 @@
     <string name="server_username">ชื่อผู้ใช้</string>
     <string name="server_password">รหัสผ่าน</string>
     <string name="no_servers">กด \"Add\" จาก action bar เพื่อเพิ่มเซิฟเวอร์ก่อน</string>
-    <string name="server_match_description">Mumla สามารถค้นหาเซิร์ฟเวอร์ที่ว่างให้คุณโดยอัตโนมัติ, ปรับแต่งตำแหน่ง, เวอร์ชัน, และเวลาในการตอบสนอง</string>
+    <string name="server_match_description">Sonant สามารถค้นหาเซิร์ฟเวอร์ที่ว่างให้คุณโดยอัตโนมัติ, ปรับแต่งตำแหน่ง, เวอร์ชัน, และเวลาในการตอบสนอง</string>
     <string name="server_match_info">ชื่อ: %1$s
 \nที่อยู่: %2$s:%3$d
 \nผู้ใช้: %4$d / %5$d
@@ -180,23 +180,18 @@
     <string name="drawer_pinned">แชนเนลที่ปักไว้</string>
     <string name="drawer_tokens">เข้าถึงโทเคน</string>
     <string name="drawer_server">ทุกแชนเนล</string>
+    <string name="drawer_current">ช่องปัจจุบัน</string>
     <string name="drawer_not_connected">เชื่อมต่อไม่ได้</string>
     <string name="drawer_close">ปิดดรอเวอร์</string>
     <string name="drawer_open">เปิดดรอเวอร์</string>
     <string name="no_ptt_key">คีย์ว่าง</string>
     <string name="grant_perm_notifications">โปรดอนุญาตให้เราส่งการแจ้งเตือน.</string>
     <string name="image_confirm_send">ส่งภาพนี้ไหม?</string>
-    <string name="app_news">มีอะไรใหม่บ้าง</string>
-    <string name="app_news_summary">ดูข้อมูลอัปเดตล่าสุด</string>
-    <string name="app_news_footer_on_startup">สามารถดูข่าวเหล่านี้ซ้ำได้อีกครั้งจากหน้า \"เกี่ยวกับเรา\".</string>
-    <string name="app_news_items_v3_7_1">• อัปเดตเล็กน้อย ส่วนใหญ่เป็นการปรับปรุงคำแปล ขอขอบคุณนักแปลทุกท่าน!\n</string>
-    <string name="donate_dialog_message_goog">ขอบคุณที่ใช้ Mumla! พิจารณาบริจาคเล็กน้อยเพื่อช่วยให้ Mumla ยังคงอยู่ต่อไปและเพื่อลบข้อความนี้</string>
-    <string name="donate_dialog_positivebutton_goog">สนับสนุน Mumla</string>
+    <string name="donate_dialog_message_goog">ขอบคุณที่ใช้ Sonant! พิจารณาบริจาคเล็กน้อยเพื่อช่วยให้ Sonant ยังคงอยู่ต่อไปและเพื่อลบข้อความนี้</string>
+    <string name="donate_dialog_positivebutton_goog">สนับสนุน Sonant</string>
     <string name="donate_dialog_negativebutton_goog">ภายหลัง</string>
     <string name="donate_purchase_pending_goog">การบริจาคของคุณอยู่ในสถานะรอการดำเนินการ และอาจพร้อมใช้งานเมื่อมีการรีสตาร์ทครั้งต่อไป ขอบคุณ!</string>
     <string name="donate_thanks_goog">ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
     <string name="donate_foss">บริจาค</string>
-    <string name="donate_dialog_title_goog">มีความสุขกับ Mumla?</string>
-    <string name="app_news_items_v3_7_0">• มีการปรับปรุงแอป Mumla สำหรับ Android 15 และ 16 (API 35 และ 36).\n• ด้วยเหตุนี้ จึงจำเป็นต้องใช้ Android 5.0 (API 21) หรือเวอร์ชันที่ใหม่กว่า.\n• ปรับปรุงธีมให้รองรับโหมดสว่าง/มืดของระบบ.\n• หน้าจอการตั้งค่าต้องปรับให้เข้ากับ API เวอร์ชันใหม่กว่า.\n• เพิ่มการตั้งค่าภาษาภายในแอป.\n</string>
-    <string name="app_news_items_v3_7_2">• แก้ไขปัญหาที่อาจทำให้โปรแกรมหยุดทำงานขณะเริ่มต้นระบบ.\n• เพิ่มคำแปลบางส่วน, ขอขอบคุณนักแปลทุกท่าน!\n</string>
+    <string name="donate_dialog_title_goog">มีความสุขกับ Sonant?</string>
 </resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Monochrome outline of the rounded Sonant mark. -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 L20,22 C21.1,22 22,21.1 22,20 L22,12 C22,6.48 17.52,2 12,2 Z"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineJoin="round"
+        android:strokeWidth="1.7" />
+
+    <!-- Inner Sonant bubble. -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M11.6,6 C8.5,6 6,8.5 6,11.6 L6,16.5 C6,17.33 6.67,18 7.5,18 L11.6,18 C15.13,18 18,15.13 18,11.6 C18,8.5 15.5,6 11.6,6 Z"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineJoin="round"
+        android:strokeWidth="1.25" />
+
+    <!-- The five sound bars from the Sonant logo. -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M7.25,10.7 C7.25,10.28 7.58,9.95 8,9.95 C8.42,9.95 8.75,10.28 8.75,10.7 L8.75,13.3 C8.75,13.72 8.42,14.05 8,14.05 C7.58,14.05 7.25,13.72 7.25,13.3 Z
+M9.25,9.2 C9.25,8.78 9.58,8.45 10,8.45 C10.42,8.45 10.75,8.78 10.75,9.2 L10.75,14.8 C10.75,15.22 10.42,15.55 10,15.55 C9.58,15.55 9.25,15.22 9.25,14.8 Z
+M11.25,8.1 C11.25,7.68 11.58,7.35 12,7.35 C12.42,7.35 12.75,7.68 12.75,8.1 L12.75,15.9 C12.75,16.32 12.42,16.65 12,16.65 C11.58,16.65 11.25,16.32 11.25,15.9 Z
+M13.25,9.2 C13.25,8.78 13.58,8.45 14,8.45 C14.42,8.45 14.75,8.78 14.75,9.2 L14.75,14.8 C14.75,15.22 14.42,15.55 14,15.55 C13.58,15.55 13.25,15.22 13.25,14.8 Z
+M15.25,10.7 C15.25,10.28 15.58,9.95 16,9.95 C16.42,9.95 16.75,10.28 16.75,10.7 L16.75,13.3 C16.75,13.72 16.42,14.05 16,14.05 C15.58,14.05 15.25,13.72 15.25,13.3 Z" />
+</vector>

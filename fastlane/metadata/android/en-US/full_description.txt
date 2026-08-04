@@ -1,4 +1,4 @@
-A client for the Mumble voice chat system. Host or connect to one of the many community run public servers (see https://www.mumble.info). Mumla is an updated and maintained version (a fork) of the app Plumble.
+A client for the Mumble voice chat system. Host or connect to one of the many community run public servers (see https://www.mumble.info). Sonant is an updated and maintained version (a fork) of the app Plumble.
 
 Some of the features:
 
@@ -17,4 +17,4 @@ Some of the features:
 Voice activated transmission currently works best when using a headset. Echo cancellation and noise reduction needs work.
 Tweaking the Detection threshold in the settings helps.
 
-Mumla is copylefted libre software. Find out more at: https://mumla-app.gitlab.io/
+Sonant is copylefted libre software. Find out more at: https://mumla-app.gitlab.io/

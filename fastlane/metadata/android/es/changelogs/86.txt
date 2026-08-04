@@ -10,8 +10,8 @@ Esta es la primera versión en la Google Play.
 
 - Allan Nordhøy reelaboró las cadenas de origen en inglés.
 
-- R4SAS tradujo Mumla al ruso.
+- R4SAS tradujo Sonant al ruso.
 
-- deluxghost tradujo Mumla a chino simplificado.
+- deluxghost tradujo Sonant a chino simplificado.
 
 - La recuperación de la lista de servidores públicos funciona de nuevo.

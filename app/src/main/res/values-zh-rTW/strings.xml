@@ -6,6 +6,7 @@
     <string name="chat_message_to">%1$s → %2$s</string>
     <string name="user_menu_kick">踢出</string>
     <string name="drawer_server">所有頻道</string>
+    <string name="drawer_current">目前頻道</string>
     <string name="drawer_pinned">已釘選的頻道</string>
     <string name="user_menu_mute">靜音</string>
     <string name="user_menu_move">移動</string>

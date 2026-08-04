@@ -1,4 +1,4 @@
-适配 Mumla 到 Android 14（SDK 34）。希望不会带来稳定性问题。
+适配 Sonant 到 Android 14（SDK 34）。希望不会带来稳定性问题。
 
 感谢 Nicolas Peugnet 提供一些 Humla 内部的问题修复。
 

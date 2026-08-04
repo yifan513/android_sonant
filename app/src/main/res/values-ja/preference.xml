@@ -14,8 +14,6 @@
     <string name="hot_corner_bottom_right">右下</string>
     <!--About-->
     <string name="about">アプリについて</string>
-    <string name="acknowledgements">謝辞</string>
-    <string name="acknowledgementsSum">Mumla の貢献者を参照</string>
     <string name="licenses">ライセンス</string>
     <string name="authentication">認証</string>
     <string name="audioInputMethodSum">音声入力の方法。</string>
@@ -42,9 +40,9 @@
     <string name="chatNotificationsSum">ユーザーがチャットに投稿した時に、通知を表示します。</string>
     <string name="defaultUsername">デフォルトのユーザー名</string>
     <string name="defaultUsernameSum">サーバへ接続する時に使用するデフォルトのユーザー名。</string>
-    <string name="defaultUsernameDefault">Mumla_User</string>
+    <string name="defaultUsernameDefault">Sonant_User</string>
     <string name="certificateGenerate">証明書を生成</string>
-    <string name="certificateGenerateSum">新しい自己署名の Mumla 証明書を生成します。初心者におすすめです。</string>
+    <string name="certificateGenerateSum">新しい自己署名の Sonant 証明書を生成します。初心者におすすめです。</string>
     <string name="pttSettings">プッシュツートーク設定</string>
     <string name="voiceActivitySettings">音声機能設定</string>
     <string name="disableOpus">Opus Codec を無効にする</string>
@@ -66,7 +64,7 @@
     <string name="loadImagesSum">チャットで外部の画像をロードするかどうか。</string>
     <string name="loadImages">外部の画像をロード</string>
     <string name="clearServerCertificates">サーバー証明書をクリア</string>
-    <string name="clearServerCertificatesSum">Mumla トラストデータベースから、許可されたサーバ証明書をすべてクリアします。</string>
+    <string name="clearServerCertificatesSum">Sonant トラストデータベースから、許可されたサーバ証明書をすべてクリアします。</string>
     <string name="version">バージョン</string>
     <string name="halfDuplex">半二重モード</string>
     <string name="halfDuplexSum">プッシュツートークを使用する時に、デバイスのサウンドをミュートします。チャンネルのユーザーに対して音声フィードバックを除去します。</string>
@@ -79,5 +77,5 @@
     <string name="audio_per_packet">パケット当たりの音声</string>
     <string name="audio_per_packet_sum">音声パケットあたりの音声の長さ。</string>
     <string name="stay_awake">画面をオフにしない</string>
-    <string name="stay_awake_sum">Mumla が開かれているときは、画面をオフにしません。</string>
+    <string name="stay_awake_sum">Sonant が開かれているときは、画面をオフにしません。</string>
 </resources>

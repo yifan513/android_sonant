@@ -8,7 +8,6 @@
     <string name="theme_system">ค่าเริ่มต้นของระบบ</string>
     <string name="inputMethodContinuous">ต่อเนื่อง</string>
     <string name="about">เกี่ยวกับ</string>
-    <string name="acknowledgements">ผู้มีส่วนร่วม</string>
     <string name="theme">ธีม</string>
     <string name="language">ภาษา</string>
     <string name="advancedAudio">ขั้นสูง</string>
@@ -16,7 +15,6 @@
     <string name="hot_corner_bottom_left">↙ ล่างซ้าย</string>
     <string name="hot_corner_top_right">บนขวา ↗</string>
     <string name="hot_corner_bottom_right">ล่างขวา ↘</string>
-    <string name="acknowledgementsSum">ดูรายชื่อผู้มีส่วนร่วมในการพัฒนา Mumla (ลิงก์เว็บไซต์)</string>
     <string name="licenses">ใบอนุญาต</string>
     <string name="authentication">การตรวจสอบสิทธิ์</string>
     <string name="audioInputMethodSum">วิธีการเปิดใช้งานการสั่งงานด้วยเสียง.</string>
@@ -41,7 +39,7 @@
     <string name="defaultUsernameSum">ชื่อที่กรอกไว้ล่วงหน้าซึ่งจะใช้เมื่อเพิ่มเซิร์ฟเวอร์หรือเชื่อมต่อกับเซิร์ฟเวอร์สาธารณะ</string>
     <string name="defaultUsernameDefault">Poc_User</string>
     <string name="certificateGenerate">สร้างใบรับรอง</string>
-    <string name="certificateGenerateSum">สร้างใบรับรอง Mumla ที่ลงนามด้วยตนเองใหม่. เหมาะสำหรับผู้เริ่มต้น.</string>
+    <string name="certificateGenerateSum">สร้างใบรับรอง Sonant ที่ลงนามด้วยตนเองใหม่. เหมาะสำหรับผู้เริ่มต้น.</string>
     <string name="pttSettings">ตั้งค่ากดเพื่อพูด</string>
     <string name="voiceActivitySettings">ตั้งค่าสั่งงานด้วยเสียง</string>
     <string name="disableOpusSum">ปิดการใช้งานการสนับสนุน Opus สำหรับเซิร์ฟเวอร์ Mumble 1.2.4</string>
@@ -63,7 +61,7 @@
     <string name="loadImagesSum">ดาวน์โหลดและแสดงรูปภาพในแชท</string>
     <string name="loadImages">ภาพภายนอก</string>
     <string name="clearServerCertificates">ล้างใบรับรองเซิร์ฟเวอร์</string>
-    <string name="clearServerCertificatesSum">ลบใบรับรองเซิร์ฟเวอร์ที่เชื่อถือได้ทั้งหมดออกจาก Mumla.</string>
+    <string name="clearServerCertificatesSum">ลบใบรับรองเซิร์ฟเวอร์ที่เชื่อถือได้ทั้งหมดออกจาก Sonant.</string>
     <string name="version">เวอร์ชั่น</string>
     <string name="halfDuplex">เสียงทางเดียว</string>
     <string name="handsetModeSum">ใช้ลำโพงด้านหน้าและเซ็นเซอร์ตรวจจับระยะใกล้เพื่อจำลองการโทรศัพท์แบบดั้งเดิม.</string>
@@ -72,7 +70,7 @@
     <string name="preprocessor_enabled">การประมวลผลข้อมูลเข้าล่วงหน้า</string>
     <string name="preprocessor_enabled_sum">ลดเสียงรบกวนรอบข้างและปรับระดับเสียงให้เป็นปกติ.</string>
     <string name="audio_per_packet_sum">ความยาวของไฟล์เสียงต่อแพ็กเก็ตเสียง</string>
-    <string name="stay_awake_sum">ตั้งค่าให้หน้าจอยังคงเปิดอยู่เมื่อเปิด Mumla.</string>
+    <string name="stay_awake_sum">ตั้งค่าให้หน้าจอยังคงเปิดอยู่เมื่อเปิด Sonant.</string>
     <string name="pref_certificate_title">ใบรับรอง</string>
     <string name="pref_certificate_summary">ค่าเริ่มต้นที่จะใช้เมื่อเชื่อมต่อกับเซิร์ฟเวอร์</string>
     <string name="pref_import_certificate_title">นำเข้าใบรับรอง</string>

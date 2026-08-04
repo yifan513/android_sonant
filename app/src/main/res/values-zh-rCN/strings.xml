@@ -5,6 +5,7 @@
     <string name="drawer_close">关闭侧栏</string>
     <string name="drawer_not_connected">未连接</string>
     <string name="drawer_server">所有频道</string>
+    <string name="drawer_current">当前频道</string>
     <string name="drawer_tokens">访问令牌</string>
     <string name="drawer_pinned">已钉选频道</string>
     <string name="drawer_header_servers">服务器</string>
@@ -57,9 +58,22 @@
 \n版本：%6$s
 \n区域：%7$s
 \n延迟：%8$d 毫秒</string>
-    <string name="server_match_description">Mumla 可以根据区域、版本与延迟自动为您寻找最佳的空服务器。</string>
+    <string name="server_match_description">Sonant 可以根据区域、版本与延迟自动为您寻找最佳的空服务器。</string>
     <!-- Common -->
-    <string name="no_servers">请先点击操作栏上的“添加”按钮添加一个服务器。</string>
+    <string name="no_servers">尚未添加服务器。</string>
+    <string name="server_list_help">点击“＋”添加一个服务器；点击记事本按钮粘贴 JSON，可一次导入多个服务器。</string>
+    <string name="import_servers">批量导入服务器</string>
+    <string name="import_servers_title">从 JSON 导入服务器</string>
+    <string name="import_servers_instructions">请粘贴包含“servers”数组的 JSON 对象。hostname 为必填项；name、port、username 和 password 可选。url 和 sonant_favorites 字段可以存在，导入时会忽略。</string>
+    <string name="import_servers_example">{\n  "servers": [\n    {\n      "hostname": "sonant.example.org",\n      "name": "RTC",\n      "password": "",\n      "port": 51392,\n      "url": "",\n      "username": "David"\n    }\n  ],\n  "sonant_favorites": 1\n}</string>
+    <string name="import_servers_hint">请在这里粘贴 JSON。hostname 必填；name、password、port、url 和 username 可选。\n\n{\n  "servers": [\n    {\n      "hostname": "sonant.example.org",\n      "name": "RTC",\n      "password": "",\n      "port": 51392,\n      "url": "",\n      "username": "用户"\n    }\n  ],\n  "sonant_favorites": 1\n}</string>
+    <plurals name="import_servers_success">
+        <item quantity="other">已导入 %d 个服务器。</item>
+    </plurals>
+    <string name="import_servers_empty">请粘贴要导入的 JSON。</string>
+    <string name="import_servers_invalid_json">JSON 格式无效：%s</string>
+    <string name="import_servers_missing_host">第 %d 个服务器缺少“hostname”。</string>
+    <string name="import_servers_invalid_port">第 %d 个服务器端口无效；请输入 1–65535，或省略端口。</string>
     <string name="server_password">密码</string>
     <string name="server_username">用户名</string>
     <string name="server_port">端口</string>
@@ -88,6 +102,7 @@
     <string name="generateCertFailure">无法生成证书。</string>
     <string name="generateCertProgress">正在生成证书…</string>
     <string name="search">搜索</string>
+    <string name="show_myself">显示自己</string>
     <string name="searchHint">搜索频道与用户</string>
     <string name="bluetooth">蓝牙</string>
     <string name="quickConnect">快速连接</string>
@@ -102,9 +117,9 @@
     <string name="offline">离线</string>
     <string name="clearChat">清除聊天记录</string>
     <string name="connected">已连接</string>
-    <string name="mumlaConnected">Mumla 已连接</string>
-    <string name="mumlaConnecting">Mumla 正在连接…</string>
-    <string name="mumlaDisconnected">Mumla 已断开连接</string>
+    <string name="mumlaConnected">Sonant 已连接</string>
+    <string name="mumlaConnecting">Sonant 正在连接…</string>
+    <string name="mumlaDisconnected">Sonant 已断开连接</string>
     <string name="channel">频道</string>
     <string name="user">用户</string>
     <string name="unknown">未知</string>
@@ -114,7 +129,7 @@
     <string name="country">区域</string>
     <string name="share">分享</string>
     <string name="description">描述</string>
-    <string name="shareMessage">用 Mumla 加入这个 Mumble 服务器。%s</string>
+    <string name="shareMessage">用 Sonant 加入这个 Mumble 服务器。%s</string>
     <string name="status_notify_muted_and_deafened">已关闭麦克风和扬声器。</string>
     <string name="status_notify_muted">已关闭麦克风。</string>
     <string name="close">关闭</string>
@@ -136,7 +151,7 @@
     <string name="channel_add">添加频道</string>
     <string name="tts_failed">无法启用文字转语音</string>
     <string name="mumble_url_parse_failed">Mumble URL 无效。</string>
-    <string name="first_run_generate_certificate_title">欢迎使用 Mumla</string>
+    <string name="first_run_generate_certificate_title">欢迎使用 Sonant</string>
     <string name="first_run_generate_certificate">强烈推荐您生成证书，部分服务器要求您必须有证书。</string>
     <string name="generate">生成</string>
     <string name="invalid_password">密码错误。</string>
@@ -189,21 +204,11 @@
     <string name="image_confirm_send">发送此图片吗？</string>
     <string name="grant_perm_notifications">请授予发送通知权限。</string>
     <string name="no_ptt_key">无按键</string>
-    <string name="app_news">新功能</string>
-    <string name="app_news_summary">查看最新更新</string>
-    <string name="app_news_footer_on_startup">您可以在关于页面再次查看这些说明。</string>
-    <string name="app_news_items_v3_7_0">• 我们为 Mumla 适配 Android 15 和 16（API 35 和 36）做了大量工作。\n
-• 为此，现在最低版本要求更改为 Android 5.0（API 21）。\n
-• 主题功能已更新，支持系统明亮/黑暗模式。\n
-• 设置界面已适配新 API。\n
-• 添加了应用内语言偏好设置。\n</string>
-    <string name="donate_dialog_title_goog">喜欢 Mumla？</string>
-    <string name="donate_dialog_message_goog">感谢您使用 Mumla！请考虑进行小额捐款以帮助维持 Mumla 的运营——并且移除这条消息。</string>
-    <string name="donate_dialog_positivebutton_goog">支持 Mumla</string>
+    <string name="donate_dialog_title_goog">喜欢 Sonant？</string>
+    <string name="donate_dialog_message_goog">感谢您使用 Sonant！请考虑进行小额捐款以帮助维持 Sonant 的运营——并且移除这条消息。</string>
+    <string name="donate_dialog_positivebutton_goog">支持 Sonant</string>
     <string name="donate_dialog_negativebutton_goog">稍后</string>
     <string name="donate_purchase_pending_goog">您的捐赠正在处理中，可能会在重启后生效。非常感谢！</string>
     <string name="donate_thanks_goog">感谢您的支持！</string>
     <string name="donate_foss">捐赠</string>
-    <string name="app_news_items_v3_7_1">• 这个小版本主要是翻译更新，感谢所有翻译者！\n</string>
-    <string name="app_news_items_v3_7_2">• 修复在启动时可能的崩溃。\n • 添加一些翻译，感谢所有翻译者！\n</string>
 </resources>

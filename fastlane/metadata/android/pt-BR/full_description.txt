@@ -1,10 +1,10 @@
-Cliente para o sistema de comunicação por voz Mumble. Hospede ou conecte-se em um dos vários servidores públicos mantidos pela comunidade (veja https://www.mumble.info). Mumla é uma versão atualizada e mantida do programa Plumble.
+Cliente para o sistema de comunicação por voz Mumble. Hospede ou conecte-se em um dos vários servidores públicos mantidos pela comunidade (veja https://www.mumble.info). Sonant é uma versão atualizada e mantida do programa Plumble.
 
 Alguns recursos:
 
 * Geração de certificados, importação e exportação
 * Navegar por servidores públicos
-* Transmissão ativa por voz (padrão), ou diferentes botões "Aperte para falar" 
+* Transmissão ativa por voz (padrão), ou diferentes botões "Aperte para falar"
 * Suporte para fones de ouvido Bluetooth
 * Registro automático de servidores
 * Chaves de acesso
@@ -17,4 +17,4 @@ Alguns recursos:
 Atualmente a função de transmissão ativa por voz funciona melhor com um fone de ouvido. Cancelamento de eco e redução de barulho ainda precisam de aprimoramento.
 Alterar o limiar de detecção nas configurações pode ajudar.
 
-Mumla é um software livre e copyleft. Saiba mais em: https://mumla-app.gitlab.io/
+Sonant é um software livre e copyleft. Saiba mais em: https://mumla-app.gitlab.io/

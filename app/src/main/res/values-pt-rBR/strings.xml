@@ -2,7 +2,7 @@
 <resources>
     <string name="user_menu_reset_comment">Redefinir Comentário</string>
     <string name="change_requires_reconnect">Reconecte para usar as novas configurações.</string>
-    <string name="first_run_generate_certificate_title">Bem-vindo ao Mumla</string>
+    <string name="first_run_generate_certificate_title">Bem-vindo ao Sonant</string>
     <string name="mumble_url_parse_failed">A URL do Mumble não é válida.</string>
     <string name="confirm_reset_comment">Tem certeza de que deseja redefinir o comentário do usuário %s\?</string>
     <string name="reconnect_dialog_message">Você já está conectado a um servidor. Em vez disso, conectar-se a este servidor\?</string>
@@ -37,6 +37,7 @@
     <string name="chat_message_to">%1$s → %2$s</string>
     <string name="drawer_tokens">Tokens de Acesso</string>
     <string name="drawer_server">Todos os Canais</string>
+    <string name="drawer_current">Canal atual</string>
     <string name="drawer_not_connected">Não Conectado</string>
     <plurals name="notification_unread_many">
         <item quantity="one">%d nova mensagem</item>
@@ -92,7 +93,7 @@
     <string name="search_name">Nome</string>
     <string name="close">Fechar</string>
     <string name="status_notify_muted">Silenciado.</string>
-    <string name="shareMessage">Junte-se a este servidor Mumble com o Mumla. %s</string>
+    <string name="shareMessage">Junte-se a este servidor Mumble com o Sonant. %s</string>
     <string name="description">Descrição</string>
     <string name="share">Compartilhar</string>
     <string name="country">País</string>
@@ -102,9 +103,9 @@
     <string name="unknown">Desconhecido</string>
     <string name="user">Usuário</string>
     <string name="channel">Canal</string>
-    <string name="mumlaDisconnected">Mumla desconectou</string>
-    <string name="mumlaConnected">Mumla conectou</string>
-    <string name="mumlaConnecting">Mumla conectando…</string>
+    <string name="mumlaDisconnected">Sonant desconectou</string>
+    <string name="mumlaConnected">Sonant conectou</string>
+    <string name="mumlaConnecting">Sonant conectando…</string>
     <string name="connected">Conectado</string>
     <string name="online">Disponível</string>
     <string name="messageToChannel">Digite a mensagem para o canal \'%s\'</string>
@@ -135,7 +136,7 @@
     <string name="server_username">Nome de usuário</string>
     <string name="server_password">Senha</string>
     <string name="no_servers">Pressione \'Adicionar\' na barra de ação para adicionar um servidor primeiro.</string>
-    <string name="server_match_description">O Mumla pode encontrar automaticamente um servidor vazio para você, otimizando por localização, versão e latência.</string>
+    <string name="server_match_description">O Sonant pode encontrar automaticamente um servidor vazio para você, otimizando por localização, versão e latência.</string>
     <string name="server_match_expand_country">Não foi possível encontrar nenhum servidor ideal em seu país. Pesquisar em todo o mundo\?</string>
     <string name="server_match_not_found">Servidor não encontrado</string>
     <string name="server_match_found">Servidor encontrado</string>

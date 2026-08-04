@@ -17,7 +17,7 @@
   -->
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-              xmlns:custom="http://schemas.android.com/apk/res-auto"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/user_row_title"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -29,7 +29,7 @@
         android:layout_height="32dp"
         android:layout_margin="8dp">
 
-        <!--<se.lublin.mumla.view.CircleImageView-->
+        <!--<com.shenxunchat.sonant.view.CircleImageView-->
             <!--android:id="@+id/user_row_avatar"-->
             <!--android:layout_width="match_parent"-->
             <!--android:layout_height="match_parent"-->
@@ -41,7 +41,7 @@
             android:id="@+id/user_row_talk_highlight"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            custom:srcCompat="@drawable/outline_circle_talking_off"/>
+            app:srcCompat="@drawable/outline_circle_talking_off"/>
     </FrameLayout>
 
     <TextView
@@ -59,9 +59,9 @@
         android:id="@+id/user_row_more"
         android:layout_width="32dp"
         android:layout_height="match_parent"
-        custom:srcCompat="@drawable/ic_more_vert_black_24dp"
+        app:srcCompat="@drawable/ic_more_vert_black_24dp"
         android:layout_gravity="center"
         android:paddingLeft="8dp"
-        android:tint="?android:textColorSecondary"
+        app:tint="?android:textColorSecondary"
         android:background="?attr/selectableItemBackgroundBorderless"/>
 </LinearLayout>

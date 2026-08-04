@@ -5,6 +5,7 @@
     <string name="drawer_close">Fermer Drawer</string>
     <string name="drawer_not_connected">Pas connecté</string>
     <string name="drawer_server">Tous les canaux</string>
+    <string name="drawer_current">Canal actuel</string>
     <string name="drawer_tokens">Jetons d\'accès</string>
     <string name="drawer_pinned">Salons épinglés</string>
     <string name="drawer_header_servers">Serveurs</string>
@@ -56,7 +57,7 @@
 \nVersion :%6$s
 \nPays : %7$s
 \nLatence : %8$d ms</string>
-    <string name="server_match_description">Mumla peut vous trouver automatiquement un serveur vide, en optimisant en se basant sur la position du serveur, sa version, et sa latence.</string>
+    <string name="server_match_description">Sonant peut vous trouver automatiquement un serveur vide, en optimisant en se basant sur la position du serveur, sa version, et sa latence.</string>
     <!--Common-->
     <string name="no_servers">Appuyez sur le bouton « Ajouter » dans la barre d\'action pour commencer.</string>
     <string name="server_password">Mot de passe</string>
@@ -101,9 +102,9 @@
     <string name="offline">Hors ligne</string>
     <string name="clearChat">Effacer la discussion</string>
     <string name="connected">Connecté</string>
-    <string name="mumlaConnected">Mumla connecté</string>
-    <string name="mumlaConnecting">Mumla en connexion…</string>
-    <string name="mumlaDisconnected">Mumla déconnecté</string>
+    <string name="mumlaConnected">Sonant connecté</string>
+    <string name="mumlaConnecting">Sonant en connexion…</string>
+    <string name="mumlaDisconnected">Sonant déconnecté</string>
     <string name="channel">Salon</string>
     <string name="user">Utilisateur</string>
     <string name="unknown">Inconnu</string>
@@ -113,7 +114,7 @@
     <string name="country">Pays</string>
     <string name="share">Partager</string>
     <string name="description">Description</string>
-    <string name="shareMessage">Rejoindre ce serveur Mumble avec Mumla. %s</string>
+    <string name="shareMessage">Rejoindre ce serveur Mumble avec Sonant. %s</string>
     <string name="status_notify_muted_and_deafened">Muet et sourd.</string>
     <string name="status_notify_muted">Muet.</string>
     <string name="close">Fermer</string>
@@ -136,7 +137,7 @@
     <string name="channel_add">Ajouter un salon</string>
     <string name="tts_failed">Erreur de l\'initialisation de TTS</string>
     <string name="mumble_url_parse_failed">L\'URL Mumble n\'est pas valide.</string>
-    <string name="first_run_generate_certificate_title">Bienvenue dans Mumla</string>
+    <string name="first_run_generate_certificate_title">Bienvenue dans Sonant</string>
     <string name="first_run_generate_certificate">Générer un certificat est très recommandé, et nécessaire pour la connexion à certains serveurs.</string>
     <string name="generate">Générer</string>
     <string name="invalid_password">Mot de passe invalide.</string>

@@ -39,8 +39,7 @@
 
     <!-- About -->
     <string name="about">About</string>
-    <string name="acknowledgements">Contributors</string>
-    <string name="acknowledgementsSum">See who contributed to Mumla (web link)</string>
+    <string name="source_code">Source code</string>
     <string name="licenses">Licenses</string>
 
     <string name="authentication">Authentication</string>
@@ -69,9 +68,9 @@
     <string name="chatNotificationsSum">Shown for new chat messages.</string>
     <string name="defaultUsername">Default username</string>
     <string name="defaultUsernameSum">Prefilled name used when adding a server, or connecting to a public server.</string>
-    <string name="defaultUsernameDefault">Mumla_User</string>
+    <string name="defaultUsernameDefault">Sonant_User</string>
     <string name="certificateGenerate">Generate certificate</string>
-    <string name="certificateGenerateSum">Generates a new self-signed Mumla certificate. Recommended for beginners.</string>
+    <string name="certificateGenerateSum">Generates a new self-signed Sonant certificate. Recommended for beginners.</string>
     <string name="pttSettings">Push-to-talk settings</string>
     <string name="voiceActivitySettings">Voice activity settings</string>
     <string name="disableOpus">Avoid Opus codec</string>
@@ -97,7 +96,7 @@
     <string name="loadImagesSum">Downloads and shows pictures in chat.</string>
     <string name="loadImages">External images</string>
     <string name="clearServerCertificates">Clear server certificates</string>
-    <string name="clearServerCertificatesSum">Remove all trusted server certificates from Mumla.</string>
+    <string name="clearServerCertificatesSum">Remove all trusted server certificates from Sonant.</string>
     <string name="version">Version</string>
     <string name="halfDuplex">One-way audio</string>
     <string name="halfDuplexSum">Mutes other playback during push-to-talk to avoid audio loops/feedback.</string>
@@ -110,7 +109,7 @@
     <string name="audio_per_packet">Audio per packet</string>
     <string name="audio_per_packet_sum">The length of audio per voice packet.</string>
     <string name="stay_awake">Stay awake</string>
-    <string name="stay_awake_sum">Keeps the screen on when Mumla is open.</string>
+    <string name="stay_awake_sum">Keeps the screen on when Sonant is open.</string>
     <string name="pref_certificate_title">Certificate</string>
     <string name="pref_certificate_summary">The default to use when connecting to a server.</string>
     <string name="pref_import_certificate_title">Import certificate</string>

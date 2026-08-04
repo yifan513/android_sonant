@@ -1,4 +1,4 @@
-L'adaptació del Mumla per a l'Android 14 (SDK 34) ja funciona. Esperem que sigui tan estable com abans.
+L'adaptació del Sonant per a l'Android 14 (SDK 34) ja funciona. Esperem que sigui tan estable com abans.
 
 Gràcies a Nicolas Peugnet per les correccions dels errors al codi del Humla.
 

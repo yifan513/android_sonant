@@ -5,6 +5,7 @@
     <string name="drawer_close">Закрыть меню</string>
     <string name="drawer_not_connected">Не подключен</string>
     <string name="drawer_server">Все каналы</string>
+    <string name="drawer_current">Текущий канал</string>
     <string name="drawer_tokens">Токены доступа</string>
     <string name="drawer_pinned">Закрепленные</string>
     <string name="drawer_header_servers">Сервера</string>
@@ -57,7 +58,7 @@
 \nВерсия: %6$s
 \nСтрана: %7$s
 \nЗадержка: %8$d мс</string>
-    <string name="server_match_description">Mumla может автоматически найти пустой сервер, основываясь на местоположении, версии, и задержке.</string>
+    <string name="server_match_description">Sonant может автоматически найти пустой сервер, основываясь на местоположении, версии, и задержке.</string>
     <!-- Common -->
     <string name="no_servers">Для начала добавьте сервер, нажав \'Добавить\' в панели управления.</string>
     <string name="server_password">Пароль</string>
@@ -101,9 +102,9 @@
     <string name="offline">Не в сети</string>
     <string name="clearChat">Очистить чат</string>
     <string name="connected">Подключено</string>
-    <string name="mumlaConnected">Mumla подключена</string>
-    <string name="mumlaConnecting">Mumla подключается…</string>
-    <string name="mumlaDisconnected">Mumla отключена</string>
+    <string name="mumlaConnected">Sonant подключена</string>
+    <string name="mumlaConnecting">Sonant подключается…</string>
+    <string name="mumlaDisconnected">Sonant отключена</string>
     <string name="channel">Канал</string>
     <string name="user">Пользователь</string>
     <string name="unknown">Неизвестный</string>
@@ -113,7 +114,7 @@
     <string name="country">Страна</string>
     <string name="share">Поделиться</string>
     <string name="description">Описание</string>
-    <string name="shareMessage">Присоединяйся к этому Mumble-серверу с помощью Mumla. %s</string>
+    <string name="shareMessage">Присоединяйся к этому Mumble-серверу с помощью Sonant. %s</string>
     <string name="status_notify_muted_and_deafened">Звук и микрофон отключены.</string>
     <string name="status_notify_muted">Микрофон отключен.</string>
     <string name="close">Закрыть</string>
@@ -135,7 +136,7 @@
     <string name="channel_add">Добавить канал</string>
     <string name="tts_failed">Не удалось запустить TTS</string>
     <string name="mumble_url_parse_failed">Неверная Mumble-ссылка.</string>
-    <string name="first_run_generate_certificate_title">Добро пожаловать в Mumla</string>
+    <string name="first_run_generate_certificate_title">Добро пожаловать в Sonant</string>
     <string name="first_run_generate_certificate">Мы рекомендуем создать сертификат. К тому же, он необходим для подключения к некоторым серверам.</string>
     <string name="generate">Создать</string>
     <string name="invalid_password">Неверный пароль.</string>

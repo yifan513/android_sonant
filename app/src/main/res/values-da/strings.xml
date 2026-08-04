@@ -36,8 +36,8 @@
     <string name="offline">Offline</string>
     <string name="clearChat">Ryd chat</string>
     <string name="connected">Forbundet</string>
-    <string name="mumlaConnected">Mumla forbundet</string>
-    <string name="mumlaConnecting">Mumla forbinder…</string>
+    <string name="mumlaConnected">Sonant forbundet</string>
+    <string name="mumlaConnecting">Sonant forbinder…</string>
     <string name="user">Bruger</string>
     <string name="sort">Sortér</string>
     <string name="sortBy">Sortér efter…</string>
@@ -53,7 +53,7 @@
     <string name="temporary">Midlertidigt</string>
     <string name="position">Position</string>
     <string name="channel_edit">Redigér kanal</string>
-    <string name="first_run_generate_certificate_title">Velkommen til Mumla</string>
+    <string name="first_run_generate_certificate_title">Velkommen til Sonant</string>
     <string name="generate">Generér</string>
     <string name="invalid_password">Forkert adgangskode.</string>
     <string name="send_message">Send besked</string>
@@ -76,6 +76,7 @@
     <string name="user_menu_move">Flyt</string>
     <string name="user_menu_reset_comment">Nulstil kommentar</string>
     <string name="drawer_server">Alle kanaler</string>
+    <string name="drawer_current">Aktuel kanal</string>
     <string name="drawer_header_servers">Servere</string>
     <string name="user_menu_register">Registrér</string>
     <string name="user_menu_view_comment">Se kommentar</string>

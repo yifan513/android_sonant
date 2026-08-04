@@ -71,7 +71,7 @@
     <string name="invalid_password">Väärä salasana.</string>
     <string name="generate">Luo</string>
     <string name="first_run_generate_certificate">Sertifikaatin luominen on erittäin suositeltavaa ja välttämätöntä yhteyden muodostamiseksi joihinkin palvelimiin.</string>
-    <string name="first_run_generate_certificate_title">Tervetuloa Mumlaan</string>
+    <string name="first_run_generate_certificate_title">Tervetuloa Sonantan</string>
     <string name="mumble_url_parse_failed">Mumblen URL-osoite ei kelpaa.</string>
     <string name="tts_failed">TTS: n käynnistäminen epäonnistui</string>
     <string name="channel_add">Lisää kanava</string>
@@ -94,7 +94,7 @@
     <string name="close">Sulje</string>
     <string name="status_notify_muted">Mykistetty.</string>
     <string name="status_notify_muted_and_deafened">Mykistetty ja hiljennetty.</string>
-    <string name="shareMessage">Liity tähän Mumble-palvelimeen Mumlan kanssa. %s</string>
+    <string name="shareMessage">Liity tähän Mumble-palvelimeen Sonantn kanssa. %s</string>
     <string name="description">Kuvaus</string>
     <string name="share">Jaa</string>
     <string name="country">Maa</string>
@@ -103,9 +103,9 @@
     <string name="unknown">Tuntematon</string>
     <string name="user">Käyttäjä</string>
     <string name="channel">Kanava</string>
-    <string name="mumlaDisconnected">Mumla katkaisi yhteyden</string>
-    <string name="mumlaConnecting">Mumla-yhteyden muodostaminen…</string>
-    <string name="mumlaConnected">Mumla yhdistetty</string>
+    <string name="mumlaDisconnected">Sonant katkaisi yhteyden</string>
+    <string name="mumlaConnecting">Sonant-yhteyden muodostaminen…</string>
+    <string name="mumlaConnected">Sonant yhdistetty</string>
     <string name="connected">Yhdistetty</string>
     <string name="clearChat">Tyhjennä chat</string>
     <string name="offline">Offline-tilassa</string>
@@ -147,7 +147,7 @@
     <string name="server_username">Käyttäjänimi</string>
     <string name="server_password">Salasana</string>
     <string name="no_servers">Lisää palvelin ensin painamalla toimintopalkista Lisää.</string>
-    <string name="server_match_description">Mumla löytää automaattisesti tyhjän palvelimen, joka optimoi sijainnin, version ja viiveen.</string>
+    <string name="server_match_description">Sonant löytää automaattisesti tyhjän palvelimen, joka optimoi sijainnin, version ja viiveen.</string>
     <string name="server_match_info">Nimi: %1$s
 \nIsäntä: %2$s: %3$d
 \nKäyttäjät: %4$d / %5$d
@@ -195,6 +195,7 @@
     <string name="drawer_pinned">Kiinnitetyt kanavat</string>
     <string name="drawer_tokens">Pääsyavaimet</string>
     <string name="drawer_server">Kaikki kanavat</string>
+    <string name="drawer_current">Nykyinen kanava</string>
     <string name="drawer_not_connected">Ei yhdistetty</string>
     <string name="drawer_close">Sulje alasvetovalikko</string>
     <string name="drawer_open">Avaa alasvetovalikko</string>

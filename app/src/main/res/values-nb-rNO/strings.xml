@@ -37,7 +37,7 @@
     <string name="server_username">Brukernavn</string>
     <string name="server_password">Passord</string>
     <string name="no_servers">Trykk «Legg til» fra handlingsfeltet for å legge til en tjener først.</string>
-    <string name="server_match_description">Mumla kan automatisk finne deg en tom tjener, optimalisere for plassering, versjon, og latens.</string>
+    <string name="server_match_description">Sonant kan automatisk finne deg en tom tjener, optimalisere for plassering, versjon, og latens.</string>
     <string name="server_match_info">Navn: %1$s
 \nVert: %2$s:%3$d
 \nBrukere: %4$d / %5$d
@@ -145,7 +145,7 @@
     <string name="close">Lukk</string>
     <string name="status_notify_muted">Forstummet.</string>
     <string name="status_notify_muted_and_deafened">Forstummet og gjort døv.</string>
-    <string name="shareMessage">Ta del i denne Mumble-tjeneren med Mumla. %s</string>
+    <string name="shareMessage">Ta del i denne Mumble-tjeneren med Sonant. %s</string>
     <string name="description">Beskrivelse</string>
     <string name="share">Deling</string>
     <string name="country">Land</string>
@@ -155,9 +155,9 @@
     <string name="unknown">Ukjent</string>
     <string name="user">Bruker</string>
     <string name="channel">Kanal</string>
-    <string name="mumlaDisconnected">Mumla er frakoblet</string>
-    <string name="mumlaConnecting">Mumla kobler til …</string>
-    <string name="mumlaConnected">Mumla er tilkoblet</string>
+    <string name="mumlaDisconnected">Sonant er frakoblet</string>
+    <string name="mumlaConnecting">Sonant kobler til …</string>
+    <string name="mumlaConnected">Sonant er tilkoblet</string>
     <string name="connected">Tilkoblet</string>
     <string name="clearChat">Tøm sludring</string>
     <string name="offline">Frakoblet</string>
@@ -195,6 +195,7 @@
     <string name="drawer_pinned">Festede kanaler</string>
     <string name="drawer_tokens">Tilgangssymboler</string>
     <string name="drawer_server">Alle kanaler</string>
+    <string name="drawer_current">Gjeldende kanal</string>
     <string name="drawer_not_connected">Ikke tilkoblet</string>
     <string name="drawer_close">Lukk skuff</string>
     <string name="drawer_open">Åpne skuff</string>

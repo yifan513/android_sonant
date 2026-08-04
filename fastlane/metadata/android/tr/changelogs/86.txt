@@ -8,8 +8,8 @@
 
 - Allan Nordhøy, İngilizce kaynak dizgelerini yeniden düzenledi.
 
-- R4SAS Mumla'yı Rusça'ya çevirdi.
+- R4SAS Sonant'yı Rusça'ya çevirdi.
 
-- deluxghost Mumla'yı basitleştirilmiş Çince'ye çevirdi.
+- deluxghost Sonant'yı basitleştirilmiş Çince'ye çevirdi.
 
 - Genel sunucu listesi alımı tekrar çalışıyor.

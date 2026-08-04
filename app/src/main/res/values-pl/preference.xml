@@ -14,8 +14,6 @@
     <string name="hot_corner_bottom_right">Prawy dolny ↘</string>
     <!-- About -->
     <string name="about">O programie</string>
-    <string name="acknowledgements">Współtwórcy</string>
-    <string name="acknowledgementsSum">Zobacz, kto przyczynił się do powstania Mumli (łącze internetowe)</string>
     <string name="licenses">Licencje</string>
     <string name="authentication">Uwierzytelnianie</string>
     <string name="audioInputMethodSum">Sposób aktywacji przekazywania audio.</string>
@@ -83,7 +81,7 @@
     <string name="audio_per_packet">Audio na pakiet</string>
     <string name="audio_per_packet_sum">Długość audio na pakiet głosowy.</string>
     <string name="stay_awake">Nie usypiaj</string>
-    <string name="stay_awake_sum">Pozostawia ekran włączony, gdy Mumla jest otwarta.</string>
+    <string name="stay_awake_sum">Pozostawia ekran włączony, gdy Sonant jest otwarta.</string>
     <string name="pref_certificate_title">Certyfikat</string>
     <string name="pref_certificate_summary">Domyślny używany podczas łączenia się z serwerem.</string>
     <string name="pref_import_certificate_title">Importuj certyfikat</string>

@@ -10,8 +10,8 @@
 
 - 由 Allan Nordhøy 润色英语源字符串。
 
-- 由 R4SAS 翻译 Mumla 至俄语。
+- 由 R4SAS 翻译 Sonant 至俄语。
 
-- 由 deluxghost 翻译 Mumla 至简体中文。
+- 由 deluxghost 翻译 Sonant 至简体中文。
 
 - 公共服务器列表再次正常工作。

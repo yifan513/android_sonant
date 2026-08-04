@@ -18,8 +18,6 @@
     <string name="hot_corner_bottom_left">↙ 左下角</string>
     <string name="hot_corner_top_right">右上角 ↗</string>
     <string name="hot_corner_bottom_right">右下角 ↘</string>
-    <string name="acknowledgements">貢獻者</string>
-    <string name="acknowledgementsSum">看看誰為 Mumla 作出了貢獻（網頁連結）</string>
     <string name="licenses">許可證</string>
     <string name="audioInputVolume">麥克風音量</string>
     <string name="forceTcp">僅 TCP</string>

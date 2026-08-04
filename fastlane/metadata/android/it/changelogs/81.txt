@@ -1,4 +1,4 @@
-- Implementata la ricerca per i record SRV per gli indirizzi server. Permette indirizzi server semplificati come `example.net`, dove un record SRV per il DNS indica 
+- Implementata la ricerca per i record SRV per gli indirizzi server. Permette indirizzi server semplificati come `example.net`, dove un record SRV per il DNS indica
 l'host del server e la porta a cui connettersi. Vedi: https://wiki.mumble.info/wiki/SRV_Record .
 
 - Allan Nordhøy ha rielaborato le stringhe sorgente per l'inglese.

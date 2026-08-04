@@ -1,45 +1,15 @@
 
-# Software maintenance situation
+# Sonant
 
-Current maintainer [Daniel Lublin](https://lublin.se)
-([@quite@mstdn.social](https://mstdn.social/@quite) on fedi) has very
-little time to do voluntary work on Mumla. My focus is strictly on
-maintaining stability and security. This includes migrations to newer
-Android SDKs, as they become requirements by Google/Alphabet for even
-getting updates published on Google Play. There are also other
-maintenance and administrative work, which barely gets done in a
-timely manner.
-
-At some point I expect Mumla to disappear from Google Play, because
-there will be some requirement that I did not have time to fulfill.
-Eventually it will also rot and no longer work well in general on
-newer releases of Android.
-
-Mumla needs a new maintainer that can allocate time to take on, to
-begin with, all these tasks. To maintain stability and security. And
-then hopefully also work with the community on for example protocol
-parity with desktop Mumble, support for various hardware accessories,
-general usability, and new features.
-
-Until there is a new maintainer with time on their hands you cannot
-expect new features, or even the continued existance of a usable
-Mumble app for Android.
-
-# Mumla
-
-Mumla is a fork and continuation of
+Sonant is a Mumble client for Android, based on
+[Mumla](https://gitlab.com/quite/mumla), which in turn is a fork and continuation of
 [Plumble](https://github.com/acomminos/Plumble), a robust GPLv3 Mumble
 client for Android originally written by Andrew Comminos. It uses the
 the [Humla](https://gitlab.com/quite/humla) protocol implementation
 (forked from Comminos's
 [Jumble](https://github.com/acomminos/Jumble)).
 
-Mumla should run on Android 5.0 (Lollipop, "L", SDK/API 21) and later.
-
-Mumla is available [on
-F-Droid](https://f-droid.org/packages/se.lublin.mumla/).
-
-There is a small [landing page](https://mumla-app.gitlab.io/).
+Sonant should run on Android 5.0 (Lollipop, "L", SDK/API 21) and later.
 
 ## FAQs -- Frequently Asked Questions
 
@@ -47,7 +17,7 @@ There is a small [landing page](https://mumla-app.gitlab.io/).
 
 Question: The Mumble server I use has an ACL that should give my user
 (or a group it's in) permission to carry out a specific action (like
-"Move"). Why doesn't Mumla show this action in the overflow menu
+"Move"). Why doesn't Sonant show this action in the overflow menu
 (three dots) for a channel or user?
 
 Answer: Try to disconnect and then reconnect to the server. The
@@ -57,13 +27,12 @@ is *not* updated on the fly if permissions change while connected.
 
 ## Translations
 
-If you want to help out translating Mumla, the project is [on
-Weblate](https://hosted.weblate.org/engage/mumla/) -- thanks for
-gratis hosting of our libre project!
+The upstream Mumla translations are managed on
+[Weblate](https://hosted.weblate.org/engage/mumla/).
 
 ## Repository submodules
 
-Note that this Mumla git repository has submodule(s). You either need
+Note that this Sonant git repository has submodule(s). You either need
 to clone it using `git clone --recursive`, or you need to get the
 submodule(s) in place after cloning:
 
@@ -117,4 +86,4 @@ installed by using the SDK Manager:
 
 ## License
 
-Mumla's [LICENSE](LICENSE) is GNU GPL v3.
+Sonant's [LICENSE](LICENSE) is GNU GPL v3.

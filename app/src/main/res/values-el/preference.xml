@@ -5,8 +5,6 @@
     <string name="hot_corner_bottom_left">↙ κάτω αριστερά</string>
     <string name="hot_corner_bottom_right">κάτω δεξιά ↘</string>
     <string name="about">Σχετικά με</string>
-    <string name="acknowledgements">Συνεισφέροντες</string>
-    <string name="acknowledgementsSum">Δείτε ποιοι συνέβαλαν στο Mumla (σύνδεσμος ιστού)</string>
     <string name="licenses">Άδειες</string>
     <string name="authentication">Ταυτοποίηση</string>
     <string name="audioInputMethodSum">Πώς ενεργοποιείται η μετάδοση ήχου.</string>
@@ -50,7 +48,7 @@
     <string name="preprocessor_enabled_sum">Καταστέλλει τον θόρυβο του περιβάλλοντος και ομαλοποιεί το επίπεδο ήχου.</string>
     <string name="audio_per_packet">Ήχος ανά πακέτο</string>
     <string name="stay_awake">Κρατήστε τη συσκευή ξύπνια</string>
-    <string name="stay_awake_sum">Διατηρεί την οθόνη ενεργή όταν το Mumla είναι ανοιχτό.</string>
+    <string name="stay_awake_sum">Διατηρεί την οθόνη ενεργή όταν το Sonant είναι ανοιχτό.</string>
     <string name="pref_certificate_title">Πιστοποιητικό</string>
     <string name="pref_certificate_summary">Η προεπιλεγμένη χρήση κατά τη σύνδεση σε ένα διακομιστή.</string>
     <string name="pref_export_certificate_title">Εξαγωγή πιστοποιητικού</string>
@@ -73,15 +71,15 @@
     <string name="clearServerCertificates">Εκκαθάριση πιστοποιητικών διακομιστή</string>
     <string name="chatNotificationsSum">Εμφανίζονται για νέα μηνύματα συνομιλίας.</string>
     <string name="defaultUsernameSum">Προκαθορισμένο όνομα που χρησιμοποιείται κατά την προσθήκη ενός διακομιστή ή τη σύνδεση σε έναν δημόσιο διακομιστή.</string>
-    <string name="defaultUsernameDefault">Mumla_User</string>
+    <string name="defaultUsernameDefault">Sonant_User</string>
     <string name="certificateGenerate">Δημιουργία πιστοποιητικού</string>
-    <string name="certificateGenerateSum">Δημιουργεί ένα νέο πιστοποιητικό Mumla που έχει σχεδιαστεί με αυτο-υπογραφή. Συνιστάται για αρχάριους.</string>
+    <string name="certificateGenerateSum">Δημιουργεί ένα νέο πιστοποιητικό Sonant που έχει σχεδιαστεί με αυτο-υπογραφή. Συνιστάται για αρχάριους.</string>
     <string name="disableOpus">Αποφυγή του κωδικοποιητή Opus</string>
     <string name="pttSettings">Ρυθμίσεις για Πίεση-πλήκτρου-για-ομιλία</string>
     <string name="disableOpusSum">Απενεργοποιήστε την υποστήριξη Opus για διακομιστές Mumble 1.2.4.</string>
     <string name="hidePtt">Απόκρυψη του κουμπιού Πίεση-πλήκτρου-για-ομιλία</string>
     <string name="useTtsSum">Διαβάστε δυνατά το εισερχόμενο μήνυμα χρησιμοποιώντας τη σύνθεση ομιλίας.</string>
-    <string name="clearServerCertificatesSum">Καταργήστε όλα τα πιστοποιητικά αξιόπιστων διακομιστών από το Mumla.</string>
+    <string name="clearServerCertificatesSum">Καταργήστε όλα τα πιστοποιητικά αξιόπιστων διακομιστών από το Sonant.</string>
     <string name="inputQualitySum">Προτιμώμενος ρυθμός δεδομένων που μεταδίδονται (σε bits ανά δευτερόλεπτο).</string>
     <string name="pressKeyInfo">Η εφαρμογή πρέπει να είναι ανοιχτή για να το χρησιμοποιήσετε (λόγω περιορισμών Android).</string>
     <string name="audio_per_packet_sum">Το μήκος του ήχου ανά πακέτο φωνής.</string>

@@ -1,6 +1,6 @@
-This is a translation release. Mumla is now available in Tamil, thank you TamilNeram.
+This is a translation release. Sonant is now available in Tamil, thank you TamilNeram.
 
-On Android 13 and later, Mumla nowdays supports per-app language setting. Pick language in System settings / Languages / App Languages.
+On Android 13 and later, Sonant nowdays supports per-app language setting. Pick language in System settings / Languages / App Languages.
 
-The languages available in Mumla are those which have been translated to 40% or more.
-You can help translating Mumla at https://hosted.weblate.org/engage/mumla/
+The languages available in Sonant are those which have been translated to 40% or more.
+You can help translating Sonant at https://hosted.weblate.org/engage/mumla/

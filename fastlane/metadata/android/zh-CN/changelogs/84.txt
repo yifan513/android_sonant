@@ -8,7 +8,7 @@
 
 - 由 Allan Nordhøy 润色英语源字符串。
 
-- 由 R4SAS 完整翻译 Mumla 至俄语。
+- 由 R4SAS 完整翻译 Sonant 至俄语。
 
 - 移除总是有问题的发言状态动画。
 

@@ -1,4 +1,4 @@
-En klient för röstchatsystemet Mumla. Agera värd eller anslut till en av de många gemenskapsledda publika servrar (se https://www.mumble.info). Mumla är en uppdaterad och underhållen version (en fork) av appen Plumble.
+En klient för röstchatsystemet Sonant. Agera värd eller anslut till en av de många gemenskapsledda publika servrar (se https://www.mumble.info). Sonant är en uppdaterad och underhållen version (en fork) av appen Plumble.
 
 Några av särdragen
 
@@ -17,4 +17,4 @@ Några av särdragen
 Röstaktiverad överföring fungerar för närvarande bäst vid användning av headset. Ekoutsläckning och brusreducering behöver förbättras.
 Justering av Detection threshold under intällningarna hjälper.
 
-Mumla är copyleft libre-mjukvara. Läs med på https://mumla-app.gitlab.io/
+Sonant är copyleft libre-mjukvara. Läs med på https://mumla-app.gitlab.io/

@@ -21,6 +21,7 @@
     <string name="drawer_pinned">القنوات المثبتة</string>
     <string name="drawer_tokens">رمز الوصول</string>
     <string name="drawer_server">كل القنوات</string>
+    <string name="drawer_current">القناة الحالية</string>
     <string name="drawer_not_connected">لست متصلا</string>
     <string name="drawer_close">أغلق الدرج</string>
     <string name="drawer_open">افتح الدرج</string>
@@ -106,7 +107,7 @@
     <string name="expand">وسّع</string>
     <string name="temporary">مؤقت</string>
     <string name="channel_edit">عدّل القناة</string>
-    <string name="first_run_generate_certificate_title">مرحبًا غي موملا</string>
+    <string name="first_run_generate_certificate_title">مرحبًا غي Sonant</string>
     <string name="first_run_generate_certificate">يُنصح بتوليد شهادة، فهي إلزامية في بعض الخوادم.</string>
     <string name="generate">ولّد</string>
     <string name="invalid_password">كلمة السر خاطئة.</string>
@@ -154,7 +155,7 @@
         <item quantity="many">%d مستخدمًا</item>
         <item quantity="other">%d مستخدم</item>
     </plurals>
-    <string name="mumlaConnected">موملا متصلة</string>
+    <string name="mumlaConnected">Sonant متصلة</string>
     <string name="connect">اتصل</string>
     <string name="search_name">الاسم</string>
     <string name="bluetooth">بلوتوث</string>
@@ -162,8 +163,8 @@
     <string name="remove">أزل</string>
     <string name="delete">احذف</string>
     <string name="connected">متصل</string>
-    <string name="mumlaConnecting">موملا يتصل…</string>
-    <string name="mumlaDisconnected">موملا غير متصل</string>
+    <string name="mumlaConnecting">Sonant يتصل…</string>
+    <string name="mumlaDisconnected">Sonant غير متصل</string>
     <string name="status_notify_muted">مكتوم.</string>
     <string name="status_notify_muted_and_deafened">مكتوم وأصم.</string>
     <string name="close">أغلق</string>
@@ -172,7 +173,7 @@
     <string name="tts_failed">تعذر بدأ TTS</string>
     <string name="user_menu_deafen">أصم</string>
     <string name="current_chat_target">الهدف الحالي للمحادثة</string>
-    <string name="shareMessage">إنضم إلى هذا الخادم عبر Mumla.%s</string>
+    <string name="shareMessage">إنضم إلى هذا الخادم عبر Sonant.%s</string>
     <string name="confirm_reset_comment">أتريد تصفير تعليق المستخدم %s؟</string>
     <string name="trust_add_failed">تعذرت إضافة شهادة في قاعدة بيانات الاستيثاق.</string>
     <string name="trust_cleared">مُسحت قاعدة بيانات الاستيثاق</string>

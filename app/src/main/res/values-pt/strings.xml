@@ -2,11 +2,11 @@
 <resources>
     <string name="user">Usuário</string>
     <string name="channel">Canal</string>
-    <string name="mumlaConnecting">Mumla está conectando…</string>
-    <string name="mumlaDisconnected">Mumla desconectado</string>
+    <string name="mumlaConnecting">Sonant está conectando…</string>
+    <string name="mumlaDisconnected">Sonant desconectado</string>
     <string name="offline">Offline</string>
     <string name="online">Online</string>
-    <string name="mumlaConnected">Mumla conectado</string>
+    <string name="mumlaConnected">Sonant conectado</string>
     <string name="connected">Conectado</string>
     <string name="clearChat">Limpar chat</string>
     <string name="messageToChannel">Enviar mensagem ao canal \'%s\'</string>
@@ -48,7 +48,7 @@
     <string name="server_username">Nome de usuário</string>
     <string name="server_password">Senha</string>
     <string name="no_servers">Você ainda não adicionou servidores. Pressione o botão \"Adicionar\" na barra de ações para começar.</string>
-    <string name="server_match_description">Mumla pode procurar automaticamente um servidor vazio, otimizado para sua localização, versão e latência.</string>
+    <string name="server_match_description">Sonant pode procurar automaticamente um servidor vazio, otimizado para sua localização, versão e latência.</string>
     <string name="server_match_info">Nome: %1$s
 \nHost: %2$s:%3$d
 \nUsuários: %4$d / %5$d
@@ -95,6 +95,7 @@
     <string name="drawer_pinned">Canais fixados</string>
     <string name="drawer_tokens">Tokens de acesso</string>
     <string name="drawer_server">Todos os canais</string>
+    <string name="drawer_current">Canal atual</string>
     <string name="drawer_not_connected">Desconectado</string>
     <string name="drawer_close">Fechar barra de navegação</string>
     <string name="drawer_open">Abrir barra de navegação</string>
@@ -167,7 +168,7 @@
     <string name="invalid_password">Senha incorreta.</string>
     <string name="generate">Gerar</string>
     <string name="first_run_generate_certificate">Gerar um certificado é altamente recomendado e necessário para se conectar em alguns servidores.</string>
-    <string name="first_run_generate_certificate_title">Bem-vindo(a) ao Mumla</string>
+    <string name="first_run_generate_certificate_title">Bem-vindo(a) ao Sonant</string>
     <string name="mumble_url_parse_failed">URL Mumble inválida.</string>
     <string name="tts_failed">Não foi possível iniciar o Texto-para-voz</string>
     <string name="channel_add">Adicionar canal</string>
@@ -190,7 +191,7 @@
     <string name="close">Fechar</string>
     <string name="status_notify_muted">Silenciado.</string>
     <string name="status_notify_muted_and_deafened">Silenciado e áudio desativado.</string>
-    <string name="shareMessage">Entre nesse servidor Mumble com o Mumla. %s</string>
+    <string name="shareMessage">Entre nesse servidor Mumble com o Sonant. %s</string>
     <string name="description">Descrição</string>
     <string name="share">Compartilhar</string>
     <string name="country">País</string>

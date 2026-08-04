@@ -1,4 +1,4 @@
-Ein Client für das Mumble Audiochatsystem. Hosten oder verbinden Sie sich mit einem der vielen von der Gemeinschaft ausgeführten öffentlichen Server (siehe https://www.mumble.info). Mumla ist eine aktualisierte und gewartete Version (eine Gabelung) der Anwendung Plumble.
+Ein Client für das Mumble Audiochatsystem. Hosten oder verbinden Sie sich mit einem der vielen von der Gemeinschaft ausgeführten öffentlichen Server (siehe https://www.mumble.info). Sonant ist eine aktualisierte und gewartete Version (eine Gabelung) der Anwendung Plumble.
 
 Einige der Funktionen:
 
@@ -17,4 +17,4 @@ Einige der Funktionen:
 Die sprachaktivierte Übertragung funktioniert derzeit am besten, wenn Sie ein Headset verwenden. Echokompensation und Rauschunterdrückung erfordern Arbeit.
 Das Ändern des Erkennungsschwellenwerts in den Einstellungen hilft.
 
-Mumla ist eine freie Software mit Copyleft. Weitere Informationen finden Sie unter: https://mumla-app.gitlab.io/
+Sonant ist eine freie Software mit Copyleft. Weitere Informationen finden Sie unter: https://mumla-app.gitlab.io/

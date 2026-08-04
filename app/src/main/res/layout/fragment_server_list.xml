@@ -22,10 +22,23 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
 
+    <TextView
+        android:id="@+id/server_list_help"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="6dp"
+        android:text="@string/server_list_help"
+        android:textColor="?android:textColorSecondary"
+        android:textSize="13sp" />
+
     <GridView
         android:id="@+id/server_list_grid"
         android:layout_height="fill_parent"
         android:layout_width="fill_parent"
+        android:layout_below="@id/server_list_help"
         android:gravity="center"
         android:columnWidth="320dp"
         android:numColumns="auto_fit"
@@ -45,5 +58,6 @@
         android:fontFamily="sans-serif-light"
         android:gravity="center"
         android:visibility="gone"
+        android:layout_below="@id/server_list_help"
         android:layout_centerInParent="true"/>
 </RelativeLayout>

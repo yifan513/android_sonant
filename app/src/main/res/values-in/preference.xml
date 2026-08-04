@@ -13,10 +13,10 @@
     <string name="about">Tentang</string>
     <string name="chatNotificationsSum">Notifikasi ditampilkan untuk pesan masuk baru.</string>
     <string name="defaultUsername">Username default</string>
-    <string name="defaultUsernameDefault">Mumla_User</string>
+    <string name="defaultUsernameDefault">Sonant_User</string>
     <string name="disableOpusSum">Mematikan dukungan untuk Opus untuk server Mumble versi 1.2.4.</string>
     <string name="pttButtonHeightSum">Mengganti ukuran vertikal tombol push-to-talk.</string>
-    <string name="certificateGenerateSum">Membuat sertifikat keamanan self-signed Mumla baru. Direkomendasikan bagi pemula.</string>
+    <string name="certificateGenerateSum">Membuat sertifikat keamanan self-signed Sonant baru. Direkomendasikan bagi pemula.</string>
     <string name="useTor">Sambung via Tor</string>
     <string name="inputQualitySum">Rate transmisi data yang diinginkan (dalam bits per second).</string>
     <string name="pttButtonHeight">Ukuran tombol push-to-talk</string>
@@ -26,8 +26,6 @@
     <string name="audio_per_packet">Audio per packet</string>
     <string name="halfDuplexSum">Mematikan playback audio lainnya saat fungsi push-to-talk berjalan (untuk menghindari audio loop/feedback).</string>
     <string name="pref_show_user_count">Tampilkan jumlah user pada channel</string>
-    <string name="acknowledgements">Kontributor</string>
-    <string name="acknowledgementsSum">Lihat kontributor Mumla (link web)</string>
     <string name="licenses">Lisensi</string>
     <string name="authentication">Autentikasi</string>
     <string name="audioInputMethodSum">Metode aktivasi transmisi audio.</string>
@@ -81,7 +79,7 @@
     <string name="preprocessor_enabled_sum">Mengecilkan suara lingkungan sekitar dan menormalisasi volume audio.</string>
     <string name="audio_per_packet_sum">Lama audio per voice packet.</string>
     <string name="stay_awake">Layar tetap menyala</string>
-    <string name="stay_awake_sum">Memastikan layar device tetap menyala selama aplikasi Mumla dibuka.</string>
+    <string name="stay_awake_sum">Memastikan layar device tetap menyala selama aplikasi Sonant dibuka.</string>
     <string name="pref_certificate_title">Sertifikat Keamanan</string>
     <string name="pref_certificate_summary">Sertifikat keamanan default yang digunakan ketika menyambung ke server.</string>
     <string name="pref_import_certificate_title">Impor sertifikat keamanan</string>

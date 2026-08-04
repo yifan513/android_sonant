@@ -14,8 +14,6 @@
     <string name="hot_corner_bottom_right">Unten rechts ↘</string>
     <!--About-->
     <string name="about">Über</string>
-    <string name="acknowledgements">Mitwirkende</string>
-    <string name="acknowledgementsSum">Sehen Sie, wer zu Mumla beigetragen hat (Weblink)</string>
     <string name="licenses">Lizenzen</string>
     <string name="authentication">Authentifizierung</string>
     <string name="audioInputMethodSum">Wie die Audioübertragung aktiviert wird.</string>
@@ -42,9 +40,9 @@
     <string name="chatNotificationsSum">Wird bei neuen Chat-Nachrichten angezeigt.</string>
     <string name="defaultUsername">Standard-Benutzername</string>
     <string name="defaultUsernameSum">Der voreingestellte Benutzername, welcher beim Verbinden zu Servern verwendet wird.</string>
-    <string name="defaultUsernameDefault">Mumla_Benutzer</string>
+    <string name="defaultUsernameDefault">Sonant_Benutzer</string>
     <string name="certificateGenerate">Zertifikat erzeugen</string>
-    <string name="certificateGenerateSum">Erzeugt ein neues, selbst signiertes Mumla-Zertifikat. Für unerfahrene Benutzer empfohlen.</string>
+    <string name="certificateGenerateSum">Erzeugt ein neues, selbst signiertes Sonant-Zertifikat. Für unerfahrene Benutzer empfohlen.</string>
     <string name="pttSettings">Zum Sprechen drücken-Einstellungen</string>
     <string name="voiceActivitySettings">Sprachaktivierungs-Einstellungen</string>
     <string name="disableOpus">Opus Codec vermeiden</string>
@@ -66,7 +64,7 @@
     <string name="loadImagesSum">Bilder herunterladen und im Chat anzeigen.</string>
     <string name="loadImages">Externe Bilder</string>
     <string name="clearServerCertificates">Entferne Serverzertifikate</string>
-    <string name="clearServerCertificatesSum">Entferne alle zugelassenen Serverzertifikate von Mumla.</string>
+    <string name="clearServerCertificatesSum">Entferne alle zugelassenen Serverzertifikate von Sonant.</string>
     <string name="version">Version</string>
     <string name="halfDuplex">Einweg-Audio</string>
     <string name="halfDuplexSum">Andere Wiedergabe während Zum Sprechen drücken stummschalten, um Rückkopplung zu verhindern.</string>
@@ -79,7 +77,7 @@
     <string name="audio_per_packet">Audio pro Paket</string>
     <string name="audio_per_packet_sum">Die Länge des Audios pro Sprachpaket.</string>
     <string name="stay_awake">Wach bleiben</string>
-    <string name="stay_awake_sum">Den Bildschirm aktiv lassen, wenn Mumla geöffnet ist.</string>
+    <string name="stay_awake_sum">Den Bildschirm aktiv lassen, wenn Sonant geöffnet ist.</string>
     <string name="pttButtonHeight">Höhe der Zum Sprechen drücken-Taste</string>
     <string name="pttButtonHeightSum">Höhe der Zum Sprechen drücken-Taste ändern.</string>
     <string name="pref_start_upIn_pinned_mode_sum">\"Angeheftete Kanäle\"-Modus nach dem Verbinden aktivieren (versteckt Kanäle, die nicht angeheftet sind).</string>

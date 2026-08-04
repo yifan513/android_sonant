@@ -1,4 +1,4 @@
-Klient pro systém hlasového chatu Mumble. Hostujte nebo se připojte k jednomu z mnoha veřejných serverů provozovaných komunitou (viz https://www.mumble.info). Mumla je aktualizovaná a udržovaná verze (fork) aplikace Plumble.
+Klient pro systém hlasového chatu Mumble. Hostujte nebo se připojte k jednomu z mnoha veřejných serverů provozovaných komunitou (viz https://www.mumble.info). Sonant je aktualizovaná a udržovaná verze (fork) aplikace Plumble.
 
 Některé z funkcí:
 
@@ -17,4 +17,4 @@ Některé z funkcí:
 Hlasem aktivovaný přenos v současné době funguje nejlépe při použití headsetu či sluchátek. Na potlačení ozvěny a redukci šumu je třeba zapracovat.
 Úprava prahu detekce v nastavení může pomoci.
 
-Mumla je svobodný software chráněný copyleftem. Více informací najdete na adrese: https://mumla-app.gitlab.io/
+Sonant je svobodný software chráněný copyleftem. Více informací najdete na adrese: https://mumla-app.gitlab.io/
