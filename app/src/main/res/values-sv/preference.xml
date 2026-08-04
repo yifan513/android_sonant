@@ -92,4 +92,5 @@
     <string name="pref_show_user_count_summary">Visar antalet användare i en kanals underkanaler.</string>
     <string name="pref_start_up_in_pinned_mode">Visa bara fästade kanaler</string>
     <string name="pref_start_upIn_pinned_mode_sum">Aktiverar läget \"Fastnålade kanaler\" efter anslutning (döljer kanaler som inte är fastnålade).</string>
+    <string name="source_code">Källkod</string>
 </resources>

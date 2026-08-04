@@ -212,11 +212,4 @@
     <string name="image_confirm_send">Inviare questa immagine\?</string>
     <string name="grant_perm_notifications">Concedere l\'autorizzazione per inviare le notifiche.</string>
     <string name="no_ptt_key">Nessuna chiave</string>
-    <string name="donate_dialog_title_goog">Ti piace Sonant?</string>
-    <string name="donate_dialog_message_goog">Grazie per usare Sonant! Per favore considera di fare una piccola donazione per aiutare a mantenere Sonant in vita — e per rimuovere questo messaggio.</string>
-    <string name="donate_dialog_positivebutton_goog">Supporta Sonant</string>
-    <string name="donate_dialog_negativebutton_goog">Più tardi</string>
-    <string name="donate_purchase_pending_goog">La tua donazione è in sospeso e potrebbe essere pronta ad un riavvio successivo. Grazie!</string>
-    <string name="donate_thanks_goog">Grazie per il tuo supporto!</string>
-    <string name="donate_foss">Dona</string>
 </resources>

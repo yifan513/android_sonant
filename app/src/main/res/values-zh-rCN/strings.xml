@@ -204,11 +204,4 @@
     <string name="image_confirm_send">发送此图片吗？</string>
     <string name="grant_perm_notifications">请授予发送通知权限。</string>
     <string name="no_ptt_key">无按键</string>
-    <string name="donate_dialog_title_goog">喜欢 Sonant？</string>
-    <string name="donate_dialog_message_goog">感谢您使用 Sonant！请考虑进行小额捐款以帮助维持 Sonant 的运营——并且移除这条消息。</string>
-    <string name="donate_dialog_positivebutton_goog">支持 Sonant</string>
-    <string name="donate_dialog_negativebutton_goog">稍后</string>
-    <string name="donate_purchase_pending_goog">您的捐赠正在处理中，可能会在重启后生效。非常感谢！</string>
-    <string name="donate_thanks_goog">感谢您的支持！</string>
-    <string name="donate_foss">捐赠</string>
 </resources>

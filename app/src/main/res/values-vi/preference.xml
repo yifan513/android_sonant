@@ -89,4 +89,5 @@
     <string name="pref_export_certificate_summary">Xuất ra bộ nhớ ngoài.</string>
     <string name="pref_show_user_count">Hiển thị số lượng người dùng trong kênh</string>
     <string name="pref_show_user_count_summary">Hiển thị số lượng người dùng trong các cây con của kênh.</string>
+    <string name="source_code">Mã nguồn</string>
 </resources>

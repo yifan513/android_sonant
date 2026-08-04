@@ -187,11 +187,4 @@
     <string name="no_ptt_key">คีย์ว่าง</string>
     <string name="grant_perm_notifications">โปรดอนุญาตให้เราส่งการแจ้งเตือน.</string>
     <string name="image_confirm_send">ส่งภาพนี้ไหม?</string>
-    <string name="donate_dialog_message_goog">ขอบคุณที่ใช้ Sonant! พิจารณาบริจาคเล็กน้อยเพื่อช่วยให้ Sonant ยังคงอยู่ต่อไปและเพื่อลบข้อความนี้</string>
-    <string name="donate_dialog_positivebutton_goog">สนับสนุน Sonant</string>
-    <string name="donate_dialog_negativebutton_goog">ภายหลัง</string>
-    <string name="donate_purchase_pending_goog">การบริจาคของคุณอยู่ในสถานะรอการดำเนินการ และอาจพร้อมใช้งานเมื่อมีการรีสตาร์ทครั้งต่อไป ขอบคุณ!</string>
-    <string name="donate_thanks_goog">ขอบคุณสำหรับการสนับสนุนของคุณ!</string>
-    <string name="donate_foss">บริจาค</string>
-    <string name="donate_dialog_title_goog">มีความสุขกับ Sonant?</string>
 </resources>

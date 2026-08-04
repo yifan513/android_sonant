@@ -89,4 +89,5 @@
     <string name="pref_show_user_count">Εμφάνιση μέτρησης χρηστών στο κανάλι</string>
     <string name="pref_show_user_count_summary">Δείχνει τον αριθμό των χρηστών σε υποπεριοχές καναλιών.</string>
     <string name="pref_import_certificate_title">Εισαγωγή πιστοποιητικού</string>
+    <string name="source_code">Πηγαίος κώδικας</string>
 </resources>

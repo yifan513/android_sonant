@@ -89,4 +89,5 @@
     <string name="useTorSum">ஆர்போட் பயன்பாடு தேவை.</string>
     <string name="inputQuality">ஓரி உள்ளீட்டு தரம்</string>
     <string name="pttButtonHeight">பேசுவதற்கு-தள்ளு பொத்தான் உயரம்</string>
+    <string name="source_code">மூலக் குறியீடு</string>
 </resources>

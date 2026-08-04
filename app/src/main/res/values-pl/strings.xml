@@ -194,11 +194,4 @@
     <string name="image_confirm_send">Wysłać ten obraz\?</string>
     <string name="grant_perm_notifications">Proszę udzielić pozwolenia na wysyłanie powiadomień.</string>
     <string name="no_ptt_key">Bez przycisku</string>
-    <string name="donate_dialog_title_goog">Podoba Ci się Sonant?</string>
-    <string name="donate_dialog_message_goog">Dziękujemy za korzystanie z Mumli! Prosimy o rozważenie przekazania niewielkiej darowizny, która pomoże utrzymać Mumlę przy życiu i usunąć ten komunikat.</string>
-    <string name="donate_dialog_positivebutton_goog">Wesprzyj Mumlę</string>
-    <string name="donate_dialog_negativebutton_goog">Później</string>
-    <string name="donate_purchase_pending_goog">Twoja darowizna jest w trakcie realizacji i może być gotowa po ponownym uruchomieniu. Dziękujemy!</string>
-    <string name="donate_thanks_goog">Dziękujemy za wsparcie!</string>
-    <string name="donate_foss">Przekaż darowiznę</string>
 </resources>

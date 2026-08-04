@@ -13,4 +13,5 @@
     <string name="hot_corner_top_right">Vpravo nahoře ↗</string>
     <string name="hot_corner_bottom_right">Vpravo dole ↘</string>
     <string name="licenses">Licence</string>
+    <string name="source_code">Zdrojový kód</string>
 </resources>

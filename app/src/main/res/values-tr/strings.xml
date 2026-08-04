@@ -202,11 +202,4 @@
     <string name="image_confirm_send">Bu resim gönderilsin mi\?</string>
     <string name="grant_perm_notifications">Lütfen bildirim gönderme izni verin.</string>
     <string name="no_ptt_key">Tuş Yok</string>
-    <string name="donate_dialog_title_goog">Sonant\'yı beğendiniz mi?</string>
-    <string name="donate_dialog_message_goog">Sonant\'yı kullandığınız için teşekkür ederiz! Sonant\'nın devamlılığı ve bu mesajın kaldırılması için lütfen küçük bir bağış yapmayı düşünün.</string>
-    <string name="donate_dialog_positivebutton_goog">Sonant\'yı destekleyin</string>
-    <string name="donate_dialog_negativebutton_goog">Daha sonra</string>
-    <string name="donate_purchase_pending_goog">Bağışınız beklemede ve daha sonra yeniden başlatıldığında hazır olabilir. Teşekkür ederiz!</string>
-    <string name="donate_thanks_goog">Desteğiniz için teşekkür ederiz!</string>
-    <string name="donate_foss">Bağış yap</string>
 </resources>

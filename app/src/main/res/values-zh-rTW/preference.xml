@@ -28,4 +28,5 @@
     <string name="voiceActivitySettings">語音活動設定</string>
     <string name="disableOpus">避免 Opus 編解碼器</string>
     <string name="useTts">文字轉語音</string>
+    <string name="source_code">原始碼</string>
 </resources>

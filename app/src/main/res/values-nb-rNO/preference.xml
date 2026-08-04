@@ -89,4 +89,5 @@
     <string name="hidePtt">Skjul trykk-for-å-snakke -knapp</string>
     <string name="hidePttSum">Kun nyttig hvis du bruker et trykk-for-å-snakke hjørne, eller en maskinvaretast.</string>
     <string name="shortTtsMessagesSum">Forkort meldingene ved å kun lese domenenavnet for lenker.</string>
+    <string name="source_code">Kildekode</string>
 </resources>

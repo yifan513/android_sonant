@@ -202,11 +202,4 @@
         <item quantity="one">%d nytt meddelande</item>
         <item quantity="other">%d nya meddelanden</item>
     </plurals>
-    <string name="donate_foss">Donera</string>
-    <string name="donate_dialog_title_goog">Gillar du Sonant?</string>
-    <string name="donate_dialog_message_goog">Tack för att du använder Sonant! En liten donation kan hjälpa till att hålla Sonant levande — och tar bort detta meddelande.</string>
-    <string name="donate_dialog_positivebutton_goog">Stöd Sonant</string>
-    <string name="donate_dialog_negativebutton_goog">Senare</string>
-    <string name="donate_purchase_pending_goog">Din donation behandlas och kan vara klar vid en senare omstart. Tack!</string>
-    <string name="donate_thanks_goog">Tack för ditt stöd!</string>
 </resources>

@@ -92,4 +92,5 @@
     <string name="pref_show_user_count_summary">Показывать количество пользователей в дереве каналов.</string>
     <string name="pref_start_up_in_pinned_mode">Режим \"Только закрепленные\"</string>
     <string name="pref_start_upIn_pinned_mode_sum">Показывать только закрепленные каналы после подключения к серверу (остальные скрыты).</string>
+    <string name="source_code">Исходный код</string>
 </resources>

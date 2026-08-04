@@ -92,4 +92,5 @@
     <string name="pref_show_user_count_summary">Zeigt die Anzahl an Benutzern in einem Kanalunterbaum an.</string>
     <string name="pref_start_up_in_pinned_mode">Angehefteter Kanalmodus</string>
     <string name="pref_export_certificate_title">Zertifikat exportieren</string>
+    <string name="source_code">Quellcode</string>
 </resources>

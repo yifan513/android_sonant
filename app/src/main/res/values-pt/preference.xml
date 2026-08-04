@@ -89,4 +89,5 @@
     <string name="useTts">Texto para fala</string>
     <string name="chatNotificationsSum">Exibidas para novas mensagens do chat.</string>
     <string name="togglePttSum">O botão Pressione para falar alterna a transmissão de ativada para desativada. Não há necessidade de segurá-lo.</string>
+    <string name="source_code">Código-fonte</string>
 </resources>

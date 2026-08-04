@@ -92,4 +92,5 @@
     <string name="togglePtt">สลับการใช้งานปุ่มกดเพื่อพูด</string>
     <string name="hidePttSum">มีประโยชน์หากคุณใช้มุมลัดหรือปุ่มฮาร์ดแวร์เพียงอย่างเดียว.</string>
     <string name="handsetMode">โหมดโทรศัพท์มือถือ</string>
+    <string name="source_code">ซอร์สโค้ด</string>
 </resources>

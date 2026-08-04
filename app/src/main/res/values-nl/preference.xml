@@ -76,4 +76,5 @@
     <string name="preprocessor_enabled_sum">Activeer de Speex preprocessor om omgevingsgeluid te dempen en volume te normaliseren.</string>
     <string name="audio_per_packet">Audio per packet</string>
     <string name="audio_per_packet_sum">De lengte van audio per voice packet.</string>
+    <string name="source_code">Broncode</string>
 </resources>

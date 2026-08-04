@@ -228,16 +228,4 @@
         <item quantity="one">%d new message</item>
         <item quantity="other">%d new messages</item>
     </plurals>
-
-
-    <!-- Used only by flavor "goog" -->
-    <string name="donate_dialog_title_goog">Enjoying Sonant?</string>
-    <string name="donate_dialog_message_goog">Thank you for using Sonant! Please consider making a small donation to help keep Sonant alive — and to remove this message.</string>
-    <string name="donate_dialog_positivebutton_goog">Support Sonant</string>
-    <string name="donate_dialog_negativebutton_goog">Later</string>
-    <string name="donate_purchase_pending_goog">Your donation is pending and may be ready at a later restart. Thank you!</string>
-    <string name="donate_thanks_goog">Thank you for your support!</string>
-
-    <!-- Used only by flavor "foss" -->
-    <string name="donate_foss">Donate</string>
 </resources>
